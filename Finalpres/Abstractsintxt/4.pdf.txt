@@ -1,0 +1,470 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER: Diverse Investigations I
+
+| Type: Con | Organizer: AAPT
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 11)
+
+Abstract Title: AACR: Probing Student Thinking with Computer Analyzed Constructed Response Questions
+Paper Type: Contributed
+Author: Matthew M. Steele
+Michigan State University
+320 S Magnolia Ave
+Lansing, MI 48912 
+5178274837 (p)
+steele24@msu.edu 
+Speaker Order: CH05
+Constructed response questions (short­answer, open­ended items) have the potential to provide more insight on
+student thinking than the multiple choice questions often employed in large introductory STEM courses. However,
+the time and costs associated with the evaluation and analysis of large data sets of constructed response has
+traditionally been a barrier to their adoption. In an effort to provide instructors with greater insight into their
+student understanding of core STEM concepts the Automated Analysis of Constructed Response (AACR,
+www.msu.edu/~aacr) Research Group is working to create a system for the automated analysis of student
+constructed responses. In this presentation we present recent work developing constructed response items to
+evaluate students understanding of foundational concepts in physics and astronomy, and discuss preliminary
+results produced by these items.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1560
+
+1/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Examining the Effects of Testwiseness Using the Force Concept Inventory
+Paper Type: Contributed
+Author: Seth T. DeVore
+West Virginia University
+45 Grandview Ave
+Morgantown, WV 26506­0002 
+4129734691 (p)
+stdevore@mail.wvu.edu 
+Speaker Order: CH01
+Testwiseness is generally defined as the set of cognitive strategies used by a student and intended to improve
+their score on a test regardless of the test’s subject matter. To improve our understanding of the potential effect
+size of several well documented elements of testwiseness, we analyze student performance on questions present
+in the Force Concept Inventory (FCI) that contain distractors, the selection of which can be related to the use of
+testwiseness strategies. We further examine the effects of both the positive and potential negative effects of
+testwiseness on student scores by developing two modified versions of the FCI designed to include additional
+elements related to testwiseness. Details of the development of the modified versions of the FCI and the effect
+sizes measured in all versions of the FCI will be discussed.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Expert/Novice Differences in Viewing Physics Diagrams Using the “Flicker” Technique
+Paper Type: Contributed
+Author: Jason W. Morphew
+University of Illinois
+255 Loomis Laboratory, 1110 West Green Street
+Urbana, IL 61801 
+(316)633­3037 (p)
+jmorphe2@illinois.edu 
+Speaker Order: CH07
+We present an experiment in which subjects with differing levels of physics experience were timed in their ability
+to detect small changes in nearly identical pairs of diagrams that are representative of typical introductory
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1560
+
+2/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+physics situations. It was hypothesized that higher physics expertise would guide attention and result in faster
+detection times for those changes that affected the physics, whereas no expertise advantage in detection times
+would result for changes that did not affect the physics. Our findings partially confirmed the hypothesis. We
+present results on how the response time for noticing physics­relevant changes in the diagram pairs is faster than
+for physics­irrelevant changes for those with more extensive physics experience and slower for those with less
+extensive physics experience. We discuss the cognitive implications of our findings.
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: How Accurate Are Students in Gauging Changes in their Understanding?*
+Paper Type: Contributed
+Author: Andrew Boudreaux
+Western Washington University
+516 High St
+Bellingham, WA 98225­9164 
+360 650­3818 (p)
+andrew.boudreaux@wwu.edu 
+Speaker Order: CH06
+Research over several decades has shown that active self­monitoring is characteristic of expert learners. More
+recent studies have examined student metacognition in introductory physics contexts. As part of a multi­
+institutional collaborative effort, we have been investigating reflective metacognition – student ability to describe
+in hindsight what they have learned about a specific physics concept, and how they have learned it. We are
+interested in how student descriptions of their own learning compare with how instructors might evaluate their
+learning. Our methodology involves matched written assessment questions given at the start and end of a
+learning episode. After the post­test, students reflect on how their thinking has changed. Comparison of self­
+reported and researcher­characterized changes allows the accuracy of student reflections to be examined. The
+study design was described in a presentation at the Winter 2015 AAPT meeting in San Diego; the current talk
+shares preliminary results. 
+
+Footnotes: *This work partially supported by NSF DUE­1245999, DUE­1245993, DUE­1245313 and DUE­
+1245699.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1560
+
+3/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Influence of Language of Administration Upon Physics Concepts Measuring Instruments
+Paper Type: Contributed
+Author: Thomas ­ Olsen
+Alfaisal University
+PO Box 50927
+Riyadh, Rihadh 11533 Kingdom of Saudi Arabia
++966 11 215 8945 (p)
+tolsen@alfaisal.edu 
+Speaker Order: CH02
+The Force Concept Inventory (FCI) has become a world standard as an instrument to measure students’
+conceptual understanding of Mechanics. In particular, the Normalized Gain has proven to be a robust measure of
+the effect of pedagogy upon student learning. While the original FCI was developed in English, translations have
+been made. In this study seeks to determine the effect, if any, of administering the FCI in different languages to
+different groups of students, taken from the same student population. As an English language university in
+Riyadh, Saudi Arabia, Alfaisal University is an excellent laboratory for such a study. The FCI has been
+administered to all introductory physics students at Alfaisal, at the beginning and the end of the first physics
+course spring 2015 semester. The students were randomly assigned English and Arabic administrations. Results
+for the first semester of this study will be presented along with preliminary analysis.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Integrating Scientific Practices into Introductory Physics Assessments
+Paper Type: Contributed
+Author: James T. Laverty
+Michigan State University
+620 Farm Lane, Room 115
+East Lansing, MI 48824­1046 
+419­944­5802 (p)
+laverty1@msu.edu 
+Speaker Order: CH04
+The Physics and Astronomy Department at Michigan State University recently began to redesign its introductory
+physics courses. At the center of this transformation effort is an attempt to include scientific practices,
+crosscutting concepts, and core ideas in the assessments and instruction of the courses. As part of a research
+effort, we have been developing the Three­Dimensional Learning Assessment Protocol (3D­LAP) to characterize
+how assessments used in introductory courses change over time. This instrument provides criteria by which
+scientific practices, crosscutting concepts, and core ideas can be identified within assessment items. Additionally,
+this instrument can be used to help write new assessment items or improve existing ones. This presentation will
+focus on the 3D­LAP and using it to track changes in assessments over time as well as to build assessment items
+that incorporate all three dimensions.
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Probing Students' Experiences in the First Year Physics Laboratory
+Paper Type: Contributed
+Author: Maria Munene Tlowana
+University of Cape Town
+Physics Department
+Rondebosch, 7701 South Africa
+01127812714964 (p)
+01127216503342 (f)
+mmtlowana@gmail.com 
+Speaker Order: CH11
+As part of a broader study aimed at understanding the first­year laboratory experience from various perspectives,
+we report on a pilot study in which we probed students’ perceptions of the first­year lab course at the end of the
+first term. For this purpose we developed a written instrument comprising five questions regarding the following
+areas of interest: expectations, enjoyment, learning, relation to course content, and assessment. Each question
+on the instrument is framed as a debate in which different points of view were posited. The respondents were
+requested to choose the view with which they most closely agreed (forced choice response), and more
+importantly, were directed to explain their choice in detail (free response writing). We detail the analysis and
+report on some of the preliminary findings focusing on the aspects of enjoyment and the learning experience
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1560
+
+5/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Quantifying School Students’ Reasoning Abilities*
+Paper Type: Contributed
+Author: Gordon J. Aubrecht
+Ohio State University at Marion
+1465 Mt. Vernon Ave.
+Marion, OH 43302­5695 
+7403690992 (p)
+aubrecht.1@osu.edu 
+Speaker Order: CH08
+Middle school teachers in our program give students pre­ and post­common formative assessments (CFAs) and
+analyze them. We created a rubric to assess student communication, correctness, use of evidence, and reasoning
+on the CFAs. We will present results of our analysis of samples of students of control and treatment teachers.
+
+Footnotes: *This work supported in part by grants from the Ohio Department of Education C1457­OSCI­09­49
+(2008­2009), C1667­MSP­10­410 (2009­2010), EDU01­0000006141 (2010­2011), EDU01­0000007902 (2011­
+2012), GRT00029161 (2012­2013), ODE­MSP­10673 (2013­2014), and EDU01­0000013704 (2014­15).
+
+Conflicts: Please do not schedule me during the poster times for my posters or times that might conflict with
+International Ed, Teacher Prep, or SI Units meeting times.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Rasch Analysis of Student Responses to the CLASS
+Paper Type: Contributed
+Author: Xi Tang
+Texas State University
+1975 Aquarena Springs Dr.
+San Marcos, TX 78667­0747 
+5122066210 (p)
+x_t4@txstate.edu 
+Speaker Order: CH03
+The Colorado Learning Attitudes about Science Survey (CLASS) has become a standard instrument for assessing
+changes in student attitudes. The standard data analysis protocol compares student responses to those of
+experts, and assigns a percentage ranking to each respondent. This analysis assumes students fall on a
+continuum from novice to expert. Another analysis model, the Rasch Model, is also based on this assumption. The
+Rasch Model also provides information about survey items simultaneously with information about respondents.
+For this reason, the Rasch Model provides an alternate, and perhaps more robust, method of analyzing CLASS
+data. To compare the Rasch Model to the traditional analysis methods, we have applied the Rasch Model to data
+that had been previously analyzed using the protocol developed at the University of Colorado. We will present the
+results of the Rasch Analysis, and discuss the differences between it and the standard analysis.
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Teaching Weight and Gravitation as Cultural Content Knowledge
+Paper Type: Contributed
+Author: Igal Galili
+The Hebrew University of Jerusalem
+Science Teaching Center, Givat Ram Campus
+Jerusalem, 91904 Israel
+972 54 7193119 (p)
+97226585097 (f)
+igal.galili@mail.huji.ac.il 
+Speaker Order: CH10
+There is a split in teaching the concepts of weight and gravitation in physics education (Galili, 2001). One group
+of physics teaches weight as the gravitational force within the developed Newtonian framework (e.g. Young and
+Freedman, 2012). The second group adopts the modern framework based on the operational definition of weight
+(e.g. Knight, 2013). Normally the authors in each group ignore the other view. We suggest teaching weight within
+the cultural perspective (Galili, 2012) which displays the two options and argues for the modern one – the
+operationally defined weight which does not coincide with the gravitational force. We have performed a
+comprehensive study on this subject (Stein, 2012) which included teaching experiments in which we applied a
+constructivist dialogical teaching of the topic of Weight­Gravitation. Our findings showed the ability of students to
+distinguish between weight and gravitation and meaningfully understand these concepts (Stein & Galili, 2014). 
+
+Footnotes: none
+
+Conflicts: none
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1560
+
+7/8
+
+3/9/2016
+
+Comment:
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Why Do Students Want to Distinguish Between Net Force and Total Force?
+Paper Type: Contributed
+Author: Philip B. Southey
+University of Cape Town
+Physics Department, University of Cape Town
+Cape Town, Western Cape 7700 South Africa
++27732495757 (p)
+philsouthey@gmail.com 
+Speaker Order: CH09
+In previous research we have shown that novice physics students distinguish between the concept of a net vector
+quantity and the concept of a total vector quantity. Introductory physics textbooks variably use the terms “net”,
+“total” or “resultant” when referring to a vector sum, with some textbooks using these terms interchangeably. In
+particular, we have shown that students distinguish between the concepts of net force and total force, and the
+concepts of net momentum and total momentum. Phase two of this research has been to analyse the reasons
+students give for making these distinctions. Using an approach suggested by Grounded Theory, free responses
+from 400 freshmen have been analyzed and broad reasoning trends have been identified. These trends are
+contrasted with foundational representational schemas posited by the cognitive sciences, such as “changing
+position versus changing state”, and “interior viewpoint versus exterior viewpoint”. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1560
+
+8/8
+
+

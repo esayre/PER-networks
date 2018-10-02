@@ -1,0 +1,18 @@
+How has PER developed? Content and co-authorship analysis in AAPT and PERC
+Eleanor C Sayre
+Kansas State University and University of Calgary
+esayre@gmail.com
+
+Wai-ka Wong Situ
+Kansas State University
+
+Suppose you have N papers which need to be sorted into M sessions of known length.  You would like the papers in each session to be thematically related, and authors of multiple papers cannot present in multiple sessions in the same time slot.  This is the paper sort problem, and it is impossible to solve exactly. However, it is deeply important on a practical level for building conference programs, on a methodological level because extant tools to approach it are insufficient, and on a fundamental research level because solving it will connect authorship information with topical information to measure the shape and development of research fields.  However, the paper sort problem is tractable in practice for the vast majority of papers in any given set.  In this empirical paper, we investigate both automated paper grouping and co-authorship networks using bibliographic and abstract information from PER.   
+
+Related problems on grouping papers via automated parsing (e.g. using n-grams and bags-of-words) and clustering (e.g. using k-means) have focused on finding an appropriate number of clusters if the number of papers in each cluster is free; however, these approaches need to be modified to situations where the number of papers in each session is fixed.  Leaning on these methods, we develop algorithms for solving the first half of the paper sort problem: putting thematically grouped papers into sessions.  In contrast to other methods of tracking topics over time, this approach relies on bottom-up topic generation from a machine-learning perspective, and thus is more robust than human-generated topics and more generalizable to larger data sets.
+
+We apply our algorithms to conference abstracts for the past few decades of AAPT and PERC talk and poster submissions (~25,000 abstracts).  We show that automated paper grouping into sessions is possible and that thematic groups are reasonable. Because our data set is so large, we also show that dominant topics in PER have shifted over time, and that committee sponsorship is an increasingly poor predictor of session topic.    
+
+The second half of the paper sort problem considers collisions between multiple papers from the same author. We cannot solve this problem wholly by machine, even if we solve the precursor problem of name disambiguation.  However, we can investigate related problems using social network analysis.  For the abstracts data set, we painstakingly disambiguated the co-author lists using a combination of automated and human-intensive processes. We use social network analysis on the co-authorship data to show how collaboration networks change over time in PER, replicating and enriching prior work on collaboration networks in PER which used published papers.
+
+Marrying the co-authorship network to the machine-generated topical groupings, we show how ideas develop and flow within our community.  We give evidence for stable research traditions where a small group of people produce similar work over time, and diverse topics where the same people are more responsive to topical trends in their research output.  We investigate the roles of newcomers and infrequent contributors to the field as well as how the field itself changes over time. 
+

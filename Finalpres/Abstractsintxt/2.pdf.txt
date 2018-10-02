@@ -1,0 +1,553 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER: Examining Content Understanding and Reasoning II
+
+AAPT | Type: Con | Organizer: AAPT
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 12)
+
+Abstract Title: “Because Math”: Epistemological Stance or Defusing Social Tension in QM?*
+Paper Type: Contributed
+Author: Erin Ronayne Sohr
+Toll Building
+College Park, MD 20740 
+4438123086 (p)
+erinsohr@gmail.com 
+Speaker Order: EI01
+Often in environments where students are collaboratively working on physics problems, students need to manage
+social conflict alongside grappling with conceptual and epistemological differences. At the University of Maryland,
+our PER group has been developing QM tutorials to help students more carefully navigate between classical and
+quantum models. In this presentation, we document several outlets that students use as tools for social framing
+and managing social conflict. These resources include epistemic distancing, humor, playing on tutorial wording
+and looking ahead to subsequent questions. Our data come from video­records of a focus group at the University
+of Maryland, where students work through a tutorial on the Particle in a Box. We see evidence of students using
+mathematics in ways that may normally be interpreted as indicating an epistemological stance, but are actually
+used as a means of defusing social tension.
+
+Footnotes: *Work supported by NSF­DUE 1323129
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+1/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: “Classical­ish”: Negotiating the Boundary Between Classical and Quantum Particles*
+Paper Type: Contributed
+Author: Benjamin William Dreyfus
+University of Maryland, College Park
+Department of Physics, 082 Regents Drive
+College Park, MD 20742 
+917­821­2405 (p)
+dreyfus@umd.edu 
+Speaker Order: EI02
+Developing physical intuition about quantum mechanics can seem like a departure from our everyday experience
+of the physical world, but we build new ideas from our existing ones. In this presentation we examine video data
+from a focus group doing a tutorial about the “particle in a box.” In reasoning about the properties of a quantum
+particle, the students bring in elements of a classical particle ontology, which are evident not only through the
+students’ language but through their use of gestures. But this is modulated by metacognitive moments in which
+the group explicitly takes up questions of whether classical intuitions are valid for the quantum system. Through
+this reflection, the students find some cases in which classical ideas can be usefully applied to quantum physics,
+and others in which they directly contrast classical and quantum mechanics. Negotiating this boundary is part of
+the process of building quantum intuitions.
+
+Footnotes: *This work is supported by NSF­DUE 1323129.
+
+Conflicts: I would like to request to be placed in the same session as Erin Sohr (“Because math”: Epistemological
+stance or defusing social tension in QM?) and Jessica Hoy (Particle or Wave: Supporting students' ontological
+development in Modern Physics), since these talks are all part of the same project. Thank you!
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Changes in Student Reasoning about Graphical Work During Introductory Physics*
+Paper Type: Contributed
+Author: John R. Thompson
+University of Maine
+Dept. of Physics & Astronomy, U. Maine
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+2/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Orono, ME 04469­5709 United States
+ 
+2075811030 (p)
+ 
+thompsonj@maine.edu 
+ 
+Speaker Order: EI07
+In a study on student understanding of graphical representations of work, students in introductory calculus­based
+physics were presented with a force­position graph (F­x) that showed two different mechanical processes with
+identical initial and identical final values for force and position. The task, to compare the works done in each case,
+was administered at three points along the two­semester instructional sequence to probe differences in student
+responses and reasoning and compare findings to results from analogous questions in thermodynamics. Response
+prevalence varied little across administrations; however, the reasoning students used showed variation. Analysis
+of reasoning used showed a higher use of “area under the curve” for a correct response, and a more prevalent
+invocation of “path independence” or “conservative forces” for the major incorrect interpretation, with instruction.
+These findings support earlier speculation that thermodynamics students associate work with conservative forces
+due to introductory instruction.
+
+Footnotes: *Supported in part by NSF Grant DUE­1323426.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Energy in Physics and Chemistry: Helping Students Draw Interdisciplinary Connections
+Paper Type: Contributed
+Author: Beth A. Lindsey
+Penn State Greater Allegheny
+4000 University Drive
+Mc Keesport, PA 15132 
+412­675­9148 (p)
+bal23@psu.edu 
+Speaker Order: EI06
+Energy is a topic that spans the scientific disciplines. Many studies conducted within the domains of both physics
+and chemistry demonstrate that potential energy in particular is a difficult topic for students. Previous work has
+shown that even within physics, students do not necessarily draw on ideas from mechanics when answering
+questions about potential energy in the context of electrostatics. We have been engaged in a research project
+aimed at helping students to make productive use of their ideas about gravitational potential energy when asked
+questions in the context of electrostatics. In this talk, we will report on recent findings regarding what helps
+students to draw these connections. We will present data from small­group interviews and online surveys, and we
+will discuss the implications these data have for instruction on energy in introductory courses. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+3/9
+
+3/9/2016
+
+Order (Sorters Suggested order)
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Abstract Title: Investigating Physics and Engineering Students’ Understanding of Diode Circuits*
+Paper Type: Contributed
+Author: MacKenzie R. Stetzer
+University of Maine
+5709 Bennett Hall, Rm 120
+Orono, ME 04469­5709 
+(207) 581­1033 (p)
+mackenzie.stetzer@maine.edu 
+Speaker Order: EI04
+As part of a larger project at the University of Maine to investigate the learning and teaching of concepts in
+thermodynamics and electronics that are integral to both undergraduate physics and engineering programs, we
+have been examining student learning in electrical engineering and physics courses on electric circuits and
+electronics. A major goal of this work at the physics­engineering interface is to probe the extent to which the
+nature of student understanding (including the prevalence of specific difficulties) depends upon the disciplinary
+context. In this talk, I will focus on our efforts to probe student understanding of basic diode circuits using free­
+response questions. Preliminary results from questions administered in both physics and engineering courses will
+be presented. 
+
+Footnotes: *This work has been supported in part by the National Science Foundation under Grant Nos. DUE­
+1323426, DUE­1022449, and DUE­0962805.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Learning Introductory E&M: A 50+ Institution Meta­analysis
+Paper Type: Contributed
+Author: Ulas Ustun*
+Kansas State University Cardwell 401
+Manhattan, KS 66506 
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+4/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+7853201956 (p)
+ 
+ulasustun@gmail.com 
+Speaker Order: EI11
+The DEAR­Faculty project is a large, international, multi­methods study to investigate student learning in
+introductory physics. As part of this project, we conduct meta­analyses of published data using popular research­
+based conceptual assessments such as the Force Concept Inventory (FCI). In this talk, I present a meta­analysis
+of student learning in electricity and magnetism. We concatenated data from a comprehensive literature search of
+papers published in PhysRevST­PER, AJP, and the PERC proceedings, and/or indexed in ERIC, Scopus, or Web of
+Science. We selected all primary studies that present sufficient data on the two most popular EM assessments:
+the Conceptual Survey of Electricity and Magnetism (CSEM), and the Brief Electricity and Magnetism Assessment
+(BEMA). Our data set includes 50 studies representing about 60 schools. We calculated the effects of institution
+and teaching methods on student learning, as well as some overall statistics on the heterogeneity of the data set.
+
+Footnotes: *Sponsored by Eleanor Sayre
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Particle or Wave: Supporting Students' Ontological Development in Modern Physics*
+Paper Type: Contributed
+Author: Jessica Hoy**
+University of Colorado Boulder
+680 S Lashley Ln #110
+Boulder, CO 80305 
+303 522 0601 (p)
+jessica.hoy@colorado.edu 
+Speaker Order: EI03
+Learning quantum mechanics requires students to develop not only new mathematical skills but also conceptual
+understanding. Towards this instructional goal, the Modern Physics for Engineers course at the University of
+Colorado Boulder explicitly addresses interpretation of quantum phenomena. Research indicates that when
+instruction does not explicitly address student beliefs about the nature of a subject, the students’ ideas tend to
+become less expert­like (Atman, et al., 2007). We present new data from focus groups of students enrolled in
+this course. During recorded discussions, they negotiate the tension between reasoning about light in terms of
+classical (wave­like) and quantum (particle­like) ontologies. We examine transitions in students’ ontological
+reasoning about light as well as their use of energy as a bridge between classical and quantum ideas. Finally, we
+consider fostering students' metacognitive awareness as a route to expert­like behaviors in quantum mechanics. 
+
+Footnotes: *Work supported by NSF **Sponsored by Noah Finkelstein 
+
+Conflicts: Unable to present on Monday, July 27. (I can arrive in Maryland Monday afternoon at the earliest)
+
+Change Session
+
+ No 
+
+ Yes
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+5/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Student Generation of General Rules Supports Learning of Physics Principles
+Paper Type: Contributed
+Author: Eric Kuo
+Stanford University
+450 Serra Mall, Bldg 160
+Stanford, CA 94305 United States
+9787931963 (p)
+erickuo@stanford.edu 
+Speaker Order: EI10
+Through a classroom study, we investigated whether student attempts to invent general physics principles
+support both discovery and future learning of those principles. In introductory physics discussion sections, small
+groups of students used a PhET simulation to connect ideas from topographic contour maps to electric
+equipotential lines for two sample charge configurations. The goal was for students to find the relationship
+between the electric field and the equipotential lines. On a conceptual survey administered immediately after this
+activity, students directed to create general rules performed better than students led through case­by­case
+predictions. This differential was maintained some days later, after both groups had received instruction in lecture
+and lab on the topic. This indicates that the task of explicit generalization not only supports discovery of general
+physics principles, but also prepares students for improved future learning from instruction.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Student Inferences from Two­Dimensional Graphs with Multiple Independent Variables
+Paper Type: Contributed
+Author: Abigail M. Bogdan
+The Ohio State University
+191 West Woodruff Ave
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+6/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Columbus, OH 43210­1168 
+ 
+(402)599­0199 (p)
+bogdan.22@osu.edu 
+ 
+Speaker Order: EI09
+In this study, students’ ability to draw inferences from graphs was explored. Approximately 300 students, in
+either the first or second semester of an introductory, calculus­based physics course, were given simple two­
+dimensional graphs and asked to draw inferences about the relationship between the dependent variable and
+each of three independent variables shown in the graph. The common strategies students employed and the
+pitfalls they encountered in doing this were observed. Additionally, the effect of students’ prior belief on their
+ability to draw valid inferences was assessed by presenting graphs either in a familiar physical context or in a
+more generic context. We found students were generally able to read simple graphs; however, their ability was
+affected by the consistency of their prior beliefs with the data, their numeric ability, and the complexity of the
+graph. These results are consistent with previous studies done with data tables.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Student Understanding and Construction of Differentials in Introductory Physics
+Paper Type: Contributed
+Author: Nathaniel Amos
+Ohio State University
+4751 Blairfield Dr. C
+Columbus, OH 43214 
+8503226171 (p)
+amos.93@osu.edu 
+Speaker Order: EI08
+Introductory university physics frequently involves the construction of integrals. There is evidence to suggest that
+a major obstacle to student success in the construction of physics integrals is an inability to formulate and
+interpret differentials and products involving differentials. We provided introductory calculus­based physics
+students with several physics problems featuring infinitesimal quantities in a variety of contexts in order to
+identify potential misconceptions regarding physical differentials. Our results demonstrated several broad,
+recurring student difficulties. To address these issues, we conducted a controlled experiment at the introductory
+level to help students practice the construction and explore the physical meaning of differentials. This between­
+students design featured pairs of similarly­styled training tasks that varied by physical context, either on paper
+without feedback or on a computer with electronic feedback. A post­test was given to all conditions. We will
+discuss and analyze the results of these studies.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+7/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Abstract Title: The Pedagogical Value of Conceptual Metaphor for Secondary Science Teachers*
+Paper Type: Contributed
+Author: Abigail R. Daane
+Seattle Pacific University
+3307 3rd Ave West
+Seattle, WA 98119 United States
+5104075239 (p)
+daanea@spu.edu 
+Speaker Order: EI05
+The abstract nature of energy encourages the use of metaphorical language in educational settings. K­12
+teachers and students use conceptual metaphors implicitly to express their ideas about what energy is or how it
+functions in particular scenarios. Attending to the use of conceptual metaphors in the classroom can expand
+teachers’ repertoire for formative assessment of student ideas. Yet science education research on analogies and
+metaphors has predominately focused on explicit, instructional analogies, rather than attending to such implicit,
+ubiquitous features of natural language in science. In a secondary science teacher professional development
+course, we observe teachers engage in an instructional activity designed to increase awareness of conceptual
+metaphor in everyday language and in descriptions of energy. These teachers come to value the application of
+conceptual metaphor in educational settings; they acknowledge that if they identify metaphors present in their
+students’ science language, they will better understand their students’ ideas about energy. We present possible
+mechanisms for teacher growth in learning and valuing the use of energy metaphors and illustrate how to support
+teachers in noticing, understanding, and valuing metaphors for energy.
+
+Footnotes: *This material is based upon work supported by the National Science Foundation under Grants No.
+0822342 and 1222732.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: University Student Conceptual Resources for Understanding Energy
+Paper Type: Contributed
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+8/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Author: Hannah C. Sabo
+Seattle Pacific University
+3307 3rd Ave W
+Seattle, WA 98119 United States
+(949)394­8423 (p)
+saboh@spu.edu 
+Speaker Order: EI12
+On the basis of our analysis of responses to written questions administered to large numbers of introductory
+physics students at several universities across the United States, we report the specific, recurring conceptual
+resources that students use to reason about energy. This work responds to a need for large­scale, resources­
+grounded research on students’ conceptual understanding and supports the development of an underexplored
+dimension of pedagogical content knowledge – knowledge of student resources for understanding energy, in
+contrast to misconceptions or misunderstandings about energy. We aim to promote instructor take­up of the
+resources theory of knowledge, and we suggest a number of ways in which instructors might capitalize on the
+resources we report.
+
+Footnotes: *This material is based upon work supported by the National Science Foundation under grant
+#122732
+
+Conflicts: Due to medical reasons, the presenter prefers not to present before 11:00 am. If possible, please
+schedule in a session after 11:00 am.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1546
+
+9/9
+
+

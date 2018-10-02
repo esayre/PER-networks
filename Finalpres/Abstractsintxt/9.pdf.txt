@@ -1,0 +1,291 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER in the Upper Division I
+
+Committee on Research in Physics Education | Co­Sponsor: Committee on Physics in Undergraduate Education
+| Type: Inv/Con | Organizer: Mary Bridget Kustusch
+
+Description:
+Call for Papers: This invited/contributed session will focus on education research conducted at the upper­division
+undergraduate physics level. Presentations on innovative teaching ideas at this level or physics research with
+undergraduate students will be included ONLY if there is a significant research component to the presentation.
+
+Abstracts Submitted (# 6)
+
+Abstract Title: Conceptual Blending with Complex Numbers in Upper­division Physics
+Paper Type: Invited
+Author: Hunter G. Close
+Texas State University
+601 University Dr.
+San Marcos, TX 78666­4615 
+5122458103 (p)
+hgclose@txstate.edu 
+Speaker Order: BF03
+We expect our upper­division students to move flexibly between multiple interpretations and representations of
+mathematics while doing physics. In conceptual blending theory, the human mind fuses two mental spaces into a
+blend; in this blend, various vital relations compress to allow the mind to achieve new insight. A fundamental vital
+relation is "identity," through which two cognitive elements become linked. Eigenvalue problems in quantum
+mechanics invoke identity when we conceive of an operator as transforming a state into an another that is "the
+same, except for" a scalar factor. The 2­d rotation matrix and its eigenvalue problem offer an interesting arena
+for investigating the identity relation in student thinking. This talk reports on an observational study using
+teaching experiments to understand how students manage the identity relation, including their ability to flexibly
+reassign the identity relation, and whether this ability is associated with any other measures of success.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1314
+
+1/5
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Conceptual vs. Mathematical Representations of Plane Waves in Optics
+Paper Type: Contributed
+Author: Andrew J. Berger*
+University of Rochester
+405 Goergen Hall / The Institute of Optics / University of Rochester
+Rochester, NY 14627 
+585­273­4724 (p)
+ajberger@optics.rochester.edu 
+Speaker Order: BF06
+A robust grasp of plane waves is helpful for studying advanced optics topics such as reflection, interference, and
+the wavelength dependence of refractive index. Although there have been many studies of students’
+understanding of waves, little work has been dedicated to plane waves, which are particularly challenging both
+conceptually and mathematically. In this study, 30­45 minute interviews about plane waves were conducted with
+nine upper­level science/engineering majors, all of whom had previously taken courses in electromagnetic theory
+where plane waves were used. The interviews revealed several aspects of how students struggle to move
+between conceptual and mathematical representations of plane waves. Examples include a disconnect between 1­
+D and 3­D waves (relating to 1­D physically but 3­D only mathematically) and the challenge of representing a 3­
+D, time­varying vector field in a diagram. Emergent design analysis of the interviews will be presented.
+
+Footnotes: *Sponsored by Scott Franklin.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Development and Validation of Quantum Mechanics Concept Assessment (QMCA)
+Paper Type: Invited
+Author: Homeyra R. Sadaghiani
+California Polytechnique University Pomona
+3801 West Temple Ave.
+Pomona, CA 91768­2557 
+(909)869­5194 (p)
+hrsadaghiani@cpp.edu 
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1314
+
+2/5
+
+3/9/2016
+
+AAPT PaC Tools
+
+Speaker Order: BF01
+As part of an ongoing investigation of students’ learning of quantum mechanics, we have developed a 31­item
+multiple­choice Quantum Mechanics Concept Assessment (QMCA) instrument for first­semester upper­division
+quantum mechanics. The QMCA could be used for both instructional and research purposes to measure the
+effectiveness of different curricula or teaching strategies at improving students’ conceptual understanding of
+quantum mechanics. This tool could also help instructors to identify common student difficulties. In this talk, I will
+discuss the construction process including the use of student interviews and expert feedback for developing
+effective distractors. Using data from over 10 different institutions, I will also briefly discuss the results of
+common statistical tests of reliability and validity, which suggest the instrument is presently in a stable, usable,
+and promising form. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Student Difficulties with Boundary Conditions in Electrodynamics
+Paper Type: Contributed
+Author: Qing X. Ryan
+University of Colorado Boulder
+390 UCB
+Boulder, CO 80309 
+(612)868­2563 (p)
+qing.ryan@colorado.edu 
+Speaker Order: BF04
+“Boundary conditions” are an important physics topic that physics undergraduates are expected to understand
+and apply in many different contexts. In this talk we will present student difficulties using boundary conditions in
+electrodynamics, primarily in the context of electromagnetic waves. Our data sources include traditional exam
+questions and think­aloud student interviews. The analysis was guided by an analytical framework (ACER) that
+characterizes how students activate, construct, execute, and reflect on boundary conditions. Solving these
+problems also requires using complex notation. While this mathematical tool could be independently analyzed
+with ACER, we decided to blend and merge the analyses of complex notation with boundary conditions. Thus we
+are pushing the boundaries of situations where ACER can be applied and we will discuss the benefits and
+limitations of this framework. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1314
+
+3/5
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Students’ Explanations of the Dirac Delta Function During Group Problem­Solving
+Paper Type: Contributed
+Author: Leanne Doughty
+Michigan State University
+567 Wilson Road
+East Lansing, MI 48824­1046 
+(517) 884­5174 (p)
+ldoughty@msu.edu 
+Speaker Order: BF05
+Upper­division physics courses require the use of sophisticated mathematics. In introductory physics, studies
+have shown that students often lack conceptual understanding of calculus concepts and struggle to implement
+calculus tools. Research into students’ understanding and use of mathematics in upper­level courses is in its early
+stages. To further this research, we have observed students engaged in group problem­solving during weekly
+recitation sessions for an upper­division electricity and magnetism course. Early in the course, one task required
+students to use a Dirac delta function (DDF) to write an expression for the charge density on the surface of a
+charged hollow cylinder. We report on two group discussions where different students gave a variety of
+explanations about the purpose of a DDF in this context. By examining these explanations, we can determine the
+types of understanding students’ have about DDFs and which are most productive for their use in physics
+contexts. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Using and Coordinating Multiple Representations of a Quantum System
+Paper Type: Invited
+Author: Elizabeth Gire
+University of Memphis
+421 Manning Hall
+Memphis, TN 38152 United States
+9016781668 (p)
+egire@memphis.edu 
+Speaker Order: BF02
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1314
+
+4/5
+
+3/9/2016
+
+AAPT PaC Tools
+
+In quantum mechanics, we have a rich set of notational systems for representing quantum systems and making
+calculations. From a distributed cognition perspective, a student and the external representations generated by
+the student can be thought of as a cognitive system in which the student and the representations interact. The
+various features of different quantum notations influence this interaction. I will discuss examples of advanced
+physics students using and coordinating representations of a quantum system using different algebraic notations
+­ wavefunction, matrix and Dirac notations. I will describe four structural features of these quantum notations
+and discuss how these features interact with student reasoning.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1314
+
+5/5
+
+

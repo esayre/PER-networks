@@ -1,0 +1,496 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER: Identity and Student Engagement
+
+AAPT | Type: Con | Organizer: AAPT
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 11)
+
+Abstract Title: A Longitudinal Investigation of Informal Learning Community
+Paper Type: Contributed
+Author: Yuehai Yang
+California State University, Chico
+343 W 1st ave
+Chico, CA 95926 United States
+8134808960 (p)
+yyang34@csuchico.edu 
+Speaker Order: CI05
+In consecutive semesters, students from a second­semester introductory college physics course have been asked
+to report who they worked with on physics outside class time. In the first semester, the course was taught in a
+traditional lecture class setting. In the second semester the course was taught by the same instructor with similar
+class size, implementing aspects of Investigative Science Learning Environment (ISLE) where students worked
+collaboratively in group learning activities. Our study suggests that implementing an in­class interactive learning
+environment can help foster the informal learning community outside of the classroom. Using social network
+analysis, we have analyzed the relationship between students’ positions in the informal learning communities
+formed outside the classroom with their performance in the course. Our results indicate that being integrated into
+the informal learning community outside of the classroom can help students, especially “weaker” ones, to succeed
+in their introductory physics courses.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+1/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Dealing with Stereotype Threat in Physics Identity Development
+Paper Type: Contributed
+Author: Sissi L. Li
+California State University Fullerton
+800 N. State College Blvd.
+Fullerton, CA 92831­3547 
+657­278­7027 (p)
+sissili314@gmail.com 
+Speaker Order: CI01
+As part of a larger study on physics identity development, we have observed that students link their academic
+achievements and social interactions in physics to their sense of belonging in physics. For students who identify
+with underrepresented groups in physics, stereotype threats can be a significant obstacle to “feeling like a
+physicist” because students belong to multiple communities with identities that are often at odds with one
+another. As representatives of their community, these students have to deal with the added worry of confirming
+the stereotypes about their group. For example, female majors may feel that they have to prove that women
+aren’t bad at math. Through interviews with upper­division physics majors, we examined coping strategies to deal
+with stereotype threat in a variety of settings. Our findings suggest that peers and mentors can play unexpected
+roles in helping students manage stereotype threat and succeed in becoming physicists.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Determining Strategies that Predict Physics Identity: Emphasizing Recognition and Interest
+Paper Type: Contributed
+Author: Robynne M. Lock
+Texas A&M University­Commerce
+PO Box 3011
+Commerce, TX 75429 
+903­468­8767 (p)
+robynne.lock@tamuc.edu 
+Speaker Order: CI04
+Although the number of students earning bachelor’s degrees in physics has increased, the percentage of those
+degrees earned by women has not increased for more than 10 years. We use a physics identity framework to
+understand the factors that may impact physics career choice. Physics identity consists of three dimensions:
+recognition (perception of recognition by others), interest (desire to learn more), and performance/competence
+(perception of ability to understand). Our previous work has shown that recognition and interest are more
+significant predictors of physics career choice than performance/competence, and that women may require more
+recognition than men in order to choose physics careers. Therefore, teaching strategies that specifically target
+recognition and interest should be identified. Using data from a survey administered to a nationally representative
+sample of college students, we use regression models to determine which teaching strategies predict recognition
+and which strategies predict interest.
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Developing SPOT: A Tool for Understanding Student Engagement STEM Classrooms
+Paper Type: Contributed
+Author: Katrina Roseler
+San Jose State University
+One Washington Square
+San Jose, CA 95192­0001 
+408­924­5284 (p)
+katrina.roseler@sjsu.edu 
+Speaker Order: CI11
+While many instructors are interested in implementing student­centered practices in their classroom, few have
+access to data from their classroom to make informed instructional decisions. Our research team has developed
+the Student Participation Observation Tool (SPOT), an innovative web­based application, developed based on
+observable classroom actions aligned with research­based instructional practices. Using the SPOT, observers
+collect observational data that can be used by instructors to identify desirable classroom interaction sequences as
+well as illuminate areas for possible improvement. Armed with data, instructors are able to make informed
+decisions about their teaching practice and implement desired changes aligned with research­based best
+practices. This presentation describes the methods used to identify research about best practices in teaching as
+well as the process of distilling the observable actions and modes of engagement included in SPOT. We will also
+discuss how session participants can access the SPOT in order to try it out. 
+
+Footnotes: Cassandra Paul
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+3/9
+
+3/9/2016
+
+Comment:
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Exploring Self­Efficacy and Growth Mindset Through Overlapping Interests Projects
+Paper Type: Contributed
+Author: Vashti A. Sawtelle
+Michigan State University
+867 Wilson Rd
+East Lansing, MI 48824­1046 
+(517) 884­5177 (p)
+vashti.sawtelle@gmail.com 
+Speaker Order: CI02
+Educational psychology studies have linked self­belief constructs to success in STEM, including self­efficacy (the
+belief in one’s ability to succeed at specific tasks) and growth mindset (seeing intelligence as something that can
+be developed through dedication and effort). However, most of the work with these constructs uses traditional
+psychology large­N quantitative studies that show that change happens without describing in qualitative detail the
+mechanism by which it happens. This presentation will focus on a likely place for students to have a self­efficacy
+and growth mindset building experience: an in­depth course project that students complete in conjunction with
+introductory physics. We present evidence of students who see themselves as competent in neuroscience or
+genetics, who identify as people who embrace challenge, but who still place physics in a category of special
+difficulty. We then explore how this overlapping interests project creates opportunities to impact self­efficacy and
+growth mindset in physics.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: How Undergraduate Research Experiences Support More Central Participation in Physics
+Paper Type: Contributed
+Author: Gina M. Quan
+University of Maryland
+082 Regents Drive
+College Park, MD 20740 United States
+4088230123 (p)
+gina.m.quan@gmail.com 
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+4/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Speaker Order: CI06
+Undergraduate research has been recognized as a significant way to facilitate undergraduate students’ more
+central participation in physics. In this talk, I will present a potential mechanism by which research experiences
+may impact undergraduate participation: changes in their beliefs about the nature of science coupled to changes
+in a sense of ability to contribute to authentic research. Students in the study were part of a research seminar at
+the University of Maryland in which they worked with faculty and graduate student research mentors on research
+projects. Class time was dedicated to developing research skills and supporting students through emotional
+hurdles associated with research. In videotaped interviews, we asked students to describe their experiences in
+research. Students developed nuanced views about how the research process works. They also perceive shifts in
+their sense of access to research, feeling like their contributions as novices mattered. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Implementing Spaced Recall in Introductory Physics
+Paper Type: Contributed
+Author: Eugene T. Torigoe
+Thiel College
+169 Reynolds Ave
+Meadville, PA 16335 
+7174196392 (p)
+etorigoe@thiel.edu 
+Speaker Order: CI10
+Psychological research about human memory has shown the effectiveness of spaced recall.(1) This research has
+demonstrated that attempting to recall information leads to stronger memory, than being told of rereading the
+information. In this talk I will describe how I have tried to incorporate spaced recall in my classes, and the ways it
+aids me as an instructor to make pedagogical decisions. I will also speculate on the cognitive skills that may aid
+student recall.
+
+Footnotes: 1. Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick. Harvard University
+Press, 2014.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+5/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Investigation of Physics Identity Within a Classroom Social Network
+Paper Type: Contributed
+Author: Eric A. Williams
+Florida International University
+11200 SW 8th St ­ CP 204
+Miami, FL 33199 United States
+305­348­2605 (p)
+ewill085@fiu.edu 
+Speaker Order: CI03
+Students from traditionally underrepresented backgrounds in the United States face unique challenges across the
+Science, Technology, Engineering, and Math (STEM) fields, but the situation in physics is especially concerning: of
+all the physics bachelor degrees awarded nationwide, only 4% go to Hispanic students. This problematic level of
+participation can be investigated through the construct of physics identity, or how strongly a student “feels like a
+physics person,” which has been shown to be correlated with the likelihood of choosing a physics career. Because
+physics identity may be impacted by a student’s social interactions, Network Analysis may be used to explore the
+relationship between a student’s calculated centrality – a measure of how embedded or “central” a particular
+student is within the classroom social network – and their physics identity. In this study, we investigate this
+relationship for students in a collaborative­learning Modeling Instruction introductory physics course at Florida
+International University.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Research and Development of PhET Simulation­based Physics Tutorials
+Paper Type: Contributed
+Author: Vijay R. Kaul
+University of Maryland, College Park
+082 Regents Drive
+College Park, MD 20742­2421 United States
+3014056185 (p)
+vijay@umd.edu 
+Speaker Order: CI07
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+6/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Well­designed instructional simulations in the classroom can help students learn difficult concepts in an enjoyable
+way. The University of Colorado PhET simulations are some of the most widely used (15 million runs every year).
+We are investigating students' reasoning when working collaboratively on PhET simulations scaffolded by tutorial
+worksheets. We have developed a tutorial for the Gas Properties simulation for introductory physics students
+designed to solicit mechanistic reasoning about temperature and pressure in terms of molecular motion.
+However, in clinical and classroom settings, students working collaboratively on the tutorial used the ideal gas law
+to make predictions about situations in which an ideal gas is being compressed or heated and subsequently used
+the simulation to confirm their predictions. Many groups did not engage in discussing the temperature, pressure
+or work done in terms of the molecular motion. These results informed subsequent modifications. We will present
+preliminary results of our investigations.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Traditional Physics Versus IPLS: Comparing Student Interest and Engagement*
+Paper Type: Contributed
+Author: Tessa E. Williams**
+Swarthmore College
+500 College Ave
+Swarthmore, PA 19081 PA Pennsylvania
+360­201­7430 (p)
+twillia4@swarthmore.edu 
+Speaker Order: CI08
+Swarthmore College life science students take a traditional first semester physics course, but have the option of
+taking an innovative Introductory Physics for the Life Sciences (IPLS) course in the second semester. This
+curricular structure presents a unique opportunity to compare students’ experiences across these different
+instructional environments. We have used multiple conceptual and attitudinal survey instruments, and have
+interviewed a number of students over the course of the year, in an effort to assess students’ evolving
+relationship with physics across these two different experiences. In this talk we present some of our findings from
+these survey and interview data, comparing epistemological and affective features of students’ experiences across
+the traditional and IPLS environments. This comparison allows us to identify some of the features that students
+find especially engaging about the IPLS course in particular.
+
+Footnotes: *Work supported in part by Swarthmore College and by the Howard Hughes Medical Institute Science
+Education grant to Swarthmore College. **Sponsored by Catherine Crouch
+
+Conflicts: If at all possible, we would like this talk to be coupled with Benjamin Geller's talk "Unpacking the
+source of student interest in an IPLS course" in the same session. Ideally, the two talks would be presented back
+to back, since they are highly connected. Thank you for your consideration.
+
+Change Session
+
+ No 
+
+ Yes
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+7/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Unpacking the Source of Student Interest in an IPLS Course
+Paper Type: Contributed
+Author: Benjamin Geller
+Swarthmore College
+500 College Ave
+Swarthmore , PA 19070 
+7174970878 (p)
+bgeller1@swarthmore.edu 
+Speaker Order: CI09
+Effectively teaching an Introductory Physics for the Life Sciences (IPLS) course means engaging life science
+students in a subject for which they may not have considerable preexisting interest. We have found that the
+inclusion of authentic life science examples supports students whose initial interest in physics is less developed,
+but that different examples and models vary in their effectiveness at engaging student interest. In this talk we
+begin to unpack this variability, exploring why some life science examples may be more successful than others at
+sparking and sustaining student interest. By analyzing data from (1) survey instruments assessing student
+interest in particular life science examples, and (2) interviews conducted with students before and after
+instruction, we identify features of our IPLS course that appear to be particularly important for fostering student
+engagement. We suggest that some of these features might also foster student interest in more traditional
+introductory physics courses.
+
+Conflicts: If at all possible, we would like this talk to be coupled with Tessa Williams' talk "Traditional physics
+versus IPLS: Comparing student interest and engagement" in the same session. Ideally, the two talks would be
+presented back to back, since they are highly connected. Thank you for your consideration.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+8/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1548
+
+9/9
+
+

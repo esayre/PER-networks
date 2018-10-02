@@ -1,0 +1,529 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER: Informing Physics Instruction
+
+AAPT | Type: Con | Organizer: AAPT
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 13)
+
+Abstract Title: Assessing the Efficacy of an Online Tool for Problem Solving*
+Paper Type: Contributed
+Author: Evan Frodermann
+University of Minnesota ­ Twin Cities
+116 Church Street S.E.
+Minneapolis, MN 55455­0213 
+6517076434 (p)
+frodermann@physics.umn.edu 
+Speaker Order: BG06
+Assessing a complex cognitive skill such as problem­solving in an authentic environment such as an introductory
+physics classes is a challenging task, given the difficulty of measuring students’ problem­solving skills,
+constructing appropriate comparison groups, and managing the many factors that may block or mask such skills
+in student performance. This talk describes our progress in analyzing a large­scale study at the University of
+Minnesota to measure the educational impact of computer coaches designed to improve students’ problem­
+solving skills. 
+
+Footnotes: *This work was partially supported by NSF DUE­0715615 and DUE­1226197.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1545
+
+1/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Clinical Comparison of Mastery Style Versus Immediate Feedback Online Activities
+Paper Type: Contributed
+Author: Noah Schroeder
+1110 W Green St.
+Urbana, IL 61801 
+219­508­9192 (p)
+noschroeder@gmail.com 
+Speaker Order: BG08
+Mastery style activities that included narrated animated solutions for instructional support were compared with
+immediate feedback activities similar to most online homework. In a clinical study, the mastery group attempted
+question sets in four levels, with animated solutions between each attempt, until mastery was achieved on each
+level. This combined elements of formative assessment, the worked example effect, and mastery learning. The
+homework group attempted questions with immediate feedback and unlimited tries. The two groups took a similar
+amount of time to complete the activity. The mastery group significantly outperformed the homework group on a
+free response post­test that required students to show their work in solving near and far transfer problems. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Connection Between Participation in Interactive Learning Environment and Teamwork Learning
+Paper Type: Contributed
+Author: Binod Nainabasti
+Florida International University
+11200 SW 8Th ST CP 204
+Miami, FL 33199 
+786­305­3125 (p)
+bnain001@fiu.edu 
+Speaker Order: BG12
+Research has shown that an Interactive­Learning­Environment (ILE) can be an effective learning environment for
+acquiring transferrable knowledge. Our research analyzed characteristics of students’ participation in an ILE and
+their teamwork learning ability, in different areas of two consecutive interactive learning physics classes that
+implemented the Investigative­Science­Learning­Environment (ISLE) curriculum—a type of widely used ILE. We
+quantified students’ participation in two broad areas: in­class learning activities and class review sessions. To
+analyze teamwork learning ability, we gave students six problems to be solved in groups (group exams), using
+physics they had not yet learned. We then gave them six standard physics problems related to the group exams
+to solve individually. Our results show that the frequency with which students participate in “on topic” physics
+discussions while engaged in learning activities is only weakly associated with learning, but being off­topic and
+disengaged has a consistently significant negative relationship with learning and transfer.
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Evaluating SDL and SRL Skills in PBL­based Physics Courses
+Paper Type: Contributed
+Author: Gintaras Duda
+Creighton University
+2500 California Plaza
+Omaha, NE 68178 
+402­280­5730 (p)
+gkduda@creighton.edu 
+Speaker Order: BG01
+The problem/project­based learning (PBL) literature makes the claim that the use of PBL pedagogy in the
+classroom helps students develop and grow their self­directed learning (SDL) and self­regulated learning skills
+(SRL). This talk will detail the creation/adaptation of a Likert­scale survey instrument to measure SDL and SRL
+skills in a wide­variety of physics courses. Preliminary data will be presented that suggests that PBL
+methodologies in physics do in fact spur growth in these areas. Further evidence gathered from student
+reflections will be presented that support and validate this claim. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1545
+
+3/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Abstract Title: Getting Physics Students to Effectively Read Texts Through Elaborative Interrogation
+Paper Type: Contributed
+Author: Robert C. Zisk
+Rutgers University
+10 Seminary Pl
+New Brunswick, NJ 08901­1281 
+7326729432 (p)
+robert.zisk@gse.rutgers.edu 
+Speaker Order: BG02
+Throughout the past three years, Elaborative Interrogation, which has students read a passage from the text and
+respond to the prompt “Why is this true?” for a sentence from the passage, has been employed in an introductory
+algebra­based physics course at a large Northeastern university. Students in the course were asked to complete
+elaborative interrogation questions based on assigned readings as part of their homework each week. In this talk
+we will present data collected during this intervention that show a relation between student performance and
+improvement on the elaborative interrogation questions and their course exam scores. We will also discuss data
+from cognitive interviews conducted as students were responding to the interrogation questions that provide
+insights into what the students are doing as they are reading the text and answering the questions. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Identifying Learning Patterns in Students that Used Two Active Learning Methodologies for the
+Learning of Basic Electric Circuits’ Concepts in High School Students
+Paper Type: Contributed
+Author: Daniel Sanchez­Guzman
+Calz. Legaria, NO. 694, COL. Irrigacion, Miguel Hidalgo, Mexico City
+Mexico City, 11500 MEXICO
++5215518189349 (p)
+dsanchezgzm@gmail.com 
+Speaker Order: BG04
+Educational Data Mining (EDM) is the process of finding learning patterns and to predict some results that can
+materialize in the learning procedure. These data can be engendered from students through evaluation tests,
+virtual or physical activities, and homework corresponding to most of the activities that students have to make
+out with their respective instructional design. In the present work we show the effects of applying EDM algorithms
+from the results obtaining of two active­learning experiments designed ad­hoc for the learning of Basic Electric
+Circuits’ Concepts in High School students. We examined the effects of using simulations as one active­learning
+methodology and the use of low­cost experiments in the classroom as the second active­learning methodology
+this let us to compare the effects of the learning sequences in each methodology and with the results we can re­
+design the learning sequence and adapting the best exercises of each instructional design.
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1545
+
+4/9
+
+3/9/2016
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Abstract Title: Implementation of Online Mastery­style Homework in a Large Introductory Class
+Paper Type: Contributed
+Author: Brianne N. Gutmann
+University of Illinois ­ Urbana Champaign
+307 W Elm Street, #2
+Urbana, IL 61801 
+2245782894 (p)
+bgutman2@illinois.edu 
+Speaker Order: BG09
+In our preparatory kinematics and dynamics course of about 500 students, we replaced traditional immediate
+feedback homework with mastery­style homework. This mastery mode required students to perfect a set of
+questions before moving on to the next level of increased difficulty, and implemented narrated animated solutions
+to provide instructional support, if necessary. Results, including class performance compared to previous years’
+students and student behaviors, will be discussed. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Improving Physics Essential Skills Through Brief, Spaced, Online Practice
+Paper Type: Contributed
+Author: Andrew F. Heckler
+Ohio State University
+191 W Woodruff Ave
+Columbus, OH 43210 
+614­940­8003 (p)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1545
+
+5/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+heckler.6@osu.edu 
+ 
+Speaker Order: BG05
+We developed and implemented a set of online “essential skills” tasks to help students achieve and retain a core
+level of mastery and fluency in basic skills necessary for their coursework. The task design is based on our
+research on student understanding and difficulties as well as three well­established cognitive principles: 1) spaced
+practice, to promote retention, 2) interleaved practice, to promote the ability to recognize when the learned skill
+is needed, and 3) mastery practice mastery practice, to promote a base level of performance. We report on
+training on a variety of skills with vector math. Students spent a relatively small amount of time, 10­20 minutes
+in practice each week, answering relevant questions online until a mastery level was achieved. Results indicate
+significant and often dramatic gains, with retention at least several weeks after the final practice session,
+including for less­prepared students.
+
+Conflicts: One potential conflict: I am on the PRST:PER editorial board, which normally meets Tuesday at lunch
+12p­2p.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: MBL­based Online Instruction as an Introductory Tool
+Paper Type: Contributed
+Author: Katherine Ansell
+University of Illinois at Urbana­Champaign
+1110 W Green St
+Urbana, IL 61801 
+(810) 841­4425 (p)
+crimmin1@illinois.edu 
+Speaker Order: BG10
+Microcomputer­based laboratory (MBL) formats in non­traditional settings allow us to vary the timing of
+laboratory­type experiences within the course design. We have used a clinical study to investigate the role of MBL
+experiences, using the IOLab system, as a tool to introduce new physics topics to students. In the study, college
+students with little to no physics background were given both passive and active online MBL instruction in varying
+order. We will discuss the effects of the format and order of instruction on student conceptual learning and
+retention, as well as the implications of these results for future course design.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1545
+
+6/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Practice with Feedback: Comparing Multiple Choice and Natural Language Formats
+Paper Type: Contributed
+Author: Ryan C. Badeau
+The Ohio State University
+191 West Woodruff Ave
+Columbus, OH 43210­1168 United States
+6073465196 (p)
+ryan.badeau@gmail.com 
+Speaker Order: BG07
+Force, velocity, and acceleration represent an interesting set of physics concepts in that they are foundational and
+a persistent source of student difficulty even after instruction. In order to evaluate the effectiveness of different
+question formats combined with immediate feedback in training on this set of concepts, we have compared
+computer­based practice with natural language and multiple choice question formats for two different populations
+of introductory physics students. In addition to comparisons of student progress through the training, student
+performance is analyzed based on their responses to a previously validated force and motion assessment. Results
+from an introductory physics course (first semester mechanics) suggest that natural language format questions
+may provide advantages over their multiple choice counterparts. However, subsequent results in a different
+introductory physics course (second semester electromagnetism) show that this finding may only be true for less­
+prepared students and that further replication is necessary.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Rasch Analysis of Student Responses to the CLASS
+Paper Type: Contributed
+Author: Xi Tang*
+Texas State University
+601 University Dr.
+San Marcos, TX 78666 
+512­145­9128 (p)
+x_t4@txstate.edu
+The Colorado Learning Attitudes about Science Survey (CLASS) has become a standard instrument for assessing
+changes in student attitudes. The standard data analysis protocol compares student responses to those of
+experts, and assigns a percentage ranking to each respondent. This analysis assumes students fall on a
+continuum from novice to expert. Another analysis model, the Rasch Model, is also based on this assumption. The
+Rasch Model also provides information about survey items simultaneously with information about respondents.
+For this reason, the Rasch Model provides an alternate, and perhaps more robust, method of analyzing CLASS
+data. To compare the Rasch Model to the traditional analysis methods, we have applied the Rasch Model to data
+that had been previously analyzed using the protocol developed at the University of Colorado. We will present the
+results of the Rasch Analysis, and discuss the differences between it and the standard analysis.
+ 
+
+Footnotes: *Sponsored by David Donnelly
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Student Learning Gains from Scientific Induction Labs, Discussions, and Readings
+Paper Type: Contributed
+Author: Emily Knapp
+University of Colorado Boulder
+School of Education, University of Colorado Boulder 249 UCB
+Boulder, CO 80309­0249 
+303­746­0017 (p)
+knapp_emily@svvsd.org 
+Speaker Order: BG03
+Our research team, composed of four high school physics teachers and two pre­service teachers, believe scientific
+induction is valuable and critical to student learning. We are exploring at what point in the learning cycle students
+gain ideas that align with those of the scientific community, i.e. scientific principles. Eight high school physics
+teachers piloting the Physics and Everyday Thinking (PET) curriculum collected data about student ideas using
+short diagnostic assessments. These were administered at three points during the learning cycle: before students
+shared initial predictions, after students conducted laboratory activities, and after students engaged in whole
+class discussions and readings about the scientific principles. We will present initial findings about student
+learning gains during induction­type activities. Further analysis will help us capitalize on students’ content
+understanding gains during the PET learning cycle and allow us to tailor future lessons so our instructional moves
+leverage that portion of the lesson. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1545
+
+8/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Student­generated Content: PeerWise Use in Undergraduate Physics Classrooms
+Paper Type: Contributed
+Author: Alison E. Kay
+University of Edinburgh
+James Clerk Maxwell Building, Peter Guthrie Tait Road
+Edinburgh, EH9 3FD United Kingdom
++44 131 650 7318 (p)
+a.e.kay@sms.ed.ac.uk 
+Speaker Order: BG11
+In recent years a number of online platforms have been developed to facilitate the creation of student­generated
+course content. One widely used system is PeerWise, which provides a space where students can create and
+share multiple­choice questions; answer and rate other students’ questions; and engage in discussion with their
+peers. These types of activities have long been recognized as being effective in increasing students’ engagement
+and enhancing the development of knowledge and understanding, critical thinking, and problem solving skills. As
+part of a wider study across courses in physics, chemistry, and biology, we present findings from a multi­year
+study of PeerWise use in early­years undergraduate physics courses. In the majority of courses there is a positive
+relationship between engaging with PeerWise and end of course exam performance, even when taking into
+account other influences on performance, such as students’ prior ability. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1545
+
+9/9
+
+

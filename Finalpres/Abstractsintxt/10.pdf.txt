@@ -1,0 +1,510 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER in the Upper Division II
+
+| Type: Inv/Con | Organizer: Mary Bridget Kustusch
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 12)
+
+Abstract Title: A Sophisticated Learner’s View of the Connection between Mathematics and Quantum Mechanics
+Paper Type: Contributed
+Author: Vesal Dini
+Tufts University
+212 College Ave.
+Medford, MA 02155 United States
+4132216718 (p)
+vesal.dini@tufts.edu 
+Speaker Order: CJ02
+Students’ physical intuitions and prior knowledge are critical to making sense of and solving problems in classical
+mechanics. In quantum mechanics (qm), coordinating concepts connected to everyday thinking becomes more
+difficult. How then can students develop coherence in their knowledge of qm? Consider how experts do it: they
+build meaning in, around, and through the mathematics of the theory. This view on the role of mathematics in
+the pursuit of knowledge is part of a larger set of views that constitute someone’s personal epistemology. The
+experts’ view noted above, which is one among many possible to take, seems most productive for qm. In our
+work to characterize student epistemologies that emerge in the context of qm coursework, we came to analyze
+one student who mostly adopted such a view until a shift in context moved him to express an alternative. We
+present his case and discuss important implications for instruction.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+1/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Developing a Quantum Interactive Learning Tutorial (QuILT) on the Double­slit Experiment
+Paper Type: Contributed
+Author: Ryan T. Sayer
+University of Pittsburgh
+4200 Fifth Avenue
+Pittsburgh, PA 15260 
+8014008915 (p)
+RTS36@pitt.edu 
+Speaker Order: CJ06
+Learning quantum mechanics is challenging even for upper­level undergraduate students and graduate students.
+Interactive tutorials that build on students’ prior knowledge can be effective tools to enhance student learning.
+We have been investigating student difficulties with the quantum mechanics behind the double­slit experiment
+and have developed a Quantum Interactive Learning Tutorial (QuILT) that makes use of a simulation to improve
+their understanding. We describe the common student difficulties with the double slit experiment and the extent
+to which the QuILT was effective in addressing these difficulties. We thank the National Science Foundation for
+support.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Embodied Action of Small Groups Answering the Quantum Mechanics Survey
+Paper Type: Contributed
+Author: Aureliano Perez
+Texas State University
+601 University Dr.
+San Marcos, TX 78666­4615 
+5122452131 (p)
+hgclose@txstate.edu 
+Speaker Order: CJ08
+The Quantum Mechanics Survey (QMS) is a research­based assessment of student understanding of quantum
+mechanics in one dimension [1]. In a first upper­division course in quantum mechanics, we observed students
+working in isolated small groups to answer the QMS. Students in this class were instructed in an interactive
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+2/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+lecture environment in which spatial visualization and gesture were encouraged. An understanding of the complex
+relative phase factor between components of a state is useful for some items on the QMS, and was meant to be
+enabled by the instructional use of pipe cleaners, which provide access to an “out­of­the­board” component for
+graphing wave functions. Previous studies [2] have shown that students can make substantive use of their bodies
+and material surroundings to think spatially about quantum mechanics. In this talk we present an overview, with
+some examples, of students’ embodied action as a means for thinking about the QMS.
+ 
+
+Footnotes: 1. G. Zhu & C. Singh, Am. J. Phys. 80(3), 252­259 (2012). 2. H. Close, C. Schiber, E. Close, and D.
+Donnelly, presented at the Physics Education Research Conference 2013, Portland, OR, 2013, WWW Document,
+(http://www.compadre.org/Repository/document/ServeFile.cfm?ID=13115&DocID=3664). 
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Investigating and Improving Student Understanding of Perturbation Theory in QM
+Paper Type: Contributed
+Author: Gina Passante
+University of Washington
+Department of Physics
+Seattle, WA 98195­0001 
+2065436390 (p)
+passante@uw.edu 
+Speaker Order: CJ05
+Over the past several years the Physics Education Group at the University of Washington has been working to
+probe the difficulties students encounter with time­independent perturbation theory and has been developing
+tutorial curriculum to improve student understanding. Perturbation theory is often taught near the end of a
+junior­level quantum mechanics course. It is an important topic as it allows the solutions to the Schrödinger
+equation for simple potentials to be used to approximate solutions for more complicated, and often more
+physically realistic, potentials. In this talk I will discuss some of the changes to curriculum we have made over
+the last few years to improve student understanding. This investigation has also illuminated difficulties that
+students have in interpreting graphically the inner product of functions.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+3/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Investigating Quantitative Reasoning Skills in Upper Division Math Methods*
+Paper Type: Contributed
+Author: Michael E. Loverude
+Dept of Physics MH611 Cal State Fullerton
+Fullerton, CA 92834 
+657­278­2270 (p)
+mloverude@fullerton.edu 
+Speaker Order: CJ01
+Many upper­division physics courses have as goals that students should "think like a physicist." Among other
+things, these goals include quantitative reasoning skills: considering limiting cases, dimensional analysis, and
+using approximations. However, there is often relatively little curricular support for these practices and many
+instructors do not assess them explicitly. As part of a collaborative project to investigate student learning of
+mathematics in upper­division courses including the traditional "math methods" course, we have developed a
+number of written questions to investigate these skills. Although there are limitations to assessing these skills
+with written questions, they can provide insight to the extent to which students can apply a given skill when
+prompted, even if they do not help understand how and when students choose to activate these skills. Examples
+of student responses will be provided.
+
+Footnotes: *Supported in part by NSF grant 1406035. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Investigating Student Difficulties with Position and Momentum Representations in Quantum
+Mechanics*
+Paper Type: Contributed
+Author: Emily M. Marshman
+University of Pittsburgh
+3941 O'Hara St.
+Pittsburgh, PA 15260 
+4128078162 (p)
+emm101@pitt.edu 
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+4/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Speaker Order: CJ03
+Quantum mechanics is challenging even for advanced undergraduate and graduate students. We have been
+investigating the difficulties that these students have with position and momentum representations in quantum
+mechanics. We administered written free­response and multiple­choice questions to students to investigate the
+difficulties. We find that many students struggle with these concepts and share common difficulties. 
+
+Footnotes: *This work is supported by the National Science Foundation.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Investigating Transfer of Knowledge in an Upper­level Quantum Mechanics Course*
+Paper Type: Contributed
+Author: Alexandru Maries
+University of Pittsburgh
+4200 Fifth Avenue
+Pittsburgh, PA 15260 
+2013125091 (p)
+alm195@pitt.edu 
+Speaker Order: CJ10
+Transfer of learning from one context to another is considered a hallmark of expertise. Physics education research
+has often found that students have great difficulty transferring knowledge from one context to another. We
+examine upper­level and graduate students’ facility with questions about the interference pattern in the double­
+slit experiment with single photons and polarizers in various orientations placed in front of one or both slits.
+Answering these questions correctly in the context of the double­slit experiment requires transfer of knowledge of
+concepts students had learned in the context of a tutorial on Mach­Zehnder Interferometer (MZI) with single
+photons and polarizers in various paths of MZI. We discuss the extent to which students who worked through the
+MZI tutorial were able to transfer their knowledge gained in that context to another context involving the double­
+slit experiment.
+
+Footnotes: *Work supported by the National Science Foundation.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+5/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Learning from Mistakes in Upper­Level Quantum Mechanics*
+Paper Type: Contributed
+Author: Benjamin R. Brown
+University of Pittsburgh
+100 Allen Hall
+Pittsburgh, PA 15260 United States
+4125138691 (p)
+brb10@pitt.edu 
+Speaker Order: CJ11
+Helping students learn to think like a physicist is an important goal of many physics courses. One characteristic of
+physics experts is that they have learned how to learn and they use problem solving as an opportunity for
+learning. In particular, physics experts automatically reflect upon their mistakes in their problem solution in order
+to repair, extend and organize their knowledge structure. Unfortunately, for many students, even in an upper­
+level physics course, problem solving is a missed learning opportunity. We investigated how well students in
+upper­level quantum mechanics learn from their mistakes and perform in the final exam when provided with
+explicit incentives to correct their mistakes in the midterm exams compared to those who were not given explicit
+incentives to correct their mistakes. Findings will be discussed.
+
+Footnotes: *This work is supported by the National Science Foundation.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: PER in Graduate Level Quantum Mechanics and Guided Group Work
+Paper Type: Contributed
+Author: Christopher D. Porter
+The Ohio State University
+191 W. Woodruff Ave
+Columbus, OH 43210 United States
+(614) 900­5554 (p)
+porter.284@osu.edu 
+Speaker Order: CJ09
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+6/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+We are beginning to do PER at the graduate level at OSU, beginning with the graduate quantum mechanics
+course. A number of prevalent misconceptions and misunderstanding have been identified for undergraduates. A
+handful of studies have even looked at graduate quantum mechanics. We begin this project by verifying the
+presence of the difficulties already identified, and looking for new ones with pre/post testing done at the
+beginning and end of each semester. We review our findings. We also discuss our efforts to overcome these
+difficulties using guided group work. These weekly meetings are not mandatory except for a small subset of
+students, but are open to all students in the course. We present example content and give an overview of our
+approach. Although numbers are low, we make an effort to determine the effectiveness of these guided group
+work sessions using student attendance, student feedback, and weekly topical pre/post quizzes.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Reinforcement Effects on Student Understanding of Quantum Mechanical Concepts
+Paper Type: Contributed
+Author: Charles Joseph DeLeone
+California State University San Marcos
+Physics Dept
+San Marcos, CA 92096­0001 United States
+760­750­8074 (p)
+cdeleone@csusm.edu 
+Speaker Order: CJ07
+Upper­division physics students often struggle with quantum concepts during their first exposure to full­blown
+quantum mechanics. Research into student learning of quantum concepts with tools such as the QMCA have
+exposed challenges associated with student learning of concepts such as superposition and time evolution of
+states. But does student learning of these concepts persist and/or improve with further exposure to quantum
+concepts in a second semester course? This talk presents the results of a study of upper­division students that
+addresses this question. Results concerning the robustness of student understanding of quantum concepts across
+representations and systems will also be discussed.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+7/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Student Difficulties with the Probability of Measuring Position and Energy in Quantum Mechanics
+Paper Type: Contributed
+Author: Chandralekha Singh
+University of Pittsburgh
+3941 Ohara St.
+Pittsburgh, PA 15260 United States
+4126874764 (p)
+4126249045 (f)
+clsingh@pitt.edu 
+Speaker Order: CJ04
+Quantum mechanics is challenging, even for advanced undergraduate and graduate students. We have been
+investigating the difficulties that students have in determining the probability of measuring position and energy as
+a function of time when the initial wavefunction is explicitly given. We find that many students struggle with these
+concepts. We discuss some common difficulties. This work is supported by the National Science Foundation. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Upper­Division Quantum Students' Development in Physics and Mathematics
+Paper Type: Contributed
+Author: John D. Thompson
+Kansas State University
+116 Cardwell Hall
+Manhattan, KS 66506 
+7853135039 (p)
+esayre@gmail.com 
+Speaker Order: CJ12
+As part of a larger study on how students' mathematical skills co­develop with their physics identities, we
+examine students' problem solving in upper­division Quantum Mechanics. Over a three­year span in which the
+course moved from highly traditional lecture to frequent bursts of in­class problem solving, we collected
+conceptual survey data on students' math skills and understanding of quantum topics. Additionally, we observed
+students ' problem­solving activities during class time. We present evidence of students' developing ideas about
+the nature of physics and physics problem­solving as they travel through the course.
+ 
+
+Footnotes: *Sponsored by Eleanor Sayre
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1563
+
+9/9
+
+

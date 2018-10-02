@@ -1,0 +1,556 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER: Exploring Problem Solving Approaches and Skills
+
+AAPT | Type: Con | Organizer: AAPT
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 12)
+
+Abstract Title: Concept Recognition as a Bottleneck in Solving Synthesis Problems
+Paper Type: Contributed
+Author: Daniel R. White
+The Ohio State University
+191 West Woodruff Ave
+Columbus, OH 43210­1168 
+6142477820 (p)
+drwhite@mps.ohio­state.edu 
+Speaker Order: FE03
+Improving students’ skills in solving synthesis problems, which are problems requiring the application of multiple
+concepts such as energy conservation and kinematics, is typically a key instructional goal. We have previously
+found that students struggle with synthesis problems more than their single­concept counterparts in part because
+of difficulty recognizing all the relevant concepts or that multiple concepts are needed. Here we report on an
+experiment designed to test the effects of different types of hints on helping students apply the necessary
+concepts in solving a problem combining energy conservation and centripetal acceleration. While we found no
+statistically significant differences between the effects of different hints, we discuss trends suggesting that
+discouraging common incorrect solution paths may be more effective than highlighting underused components of
+a correct solution.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+1/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Effect of Multimedia Hints on Students’ Visual Attention*
+Paper Type: Contributed
+Author: Xian Wu
+Kansas State University
+116 Cardwell Hall
+Manhattan, KS 66506 
+6035019898 (p)
+xian@phys.ksu.edu 
+Speaker Order: FE07
+To create valuable hints in computer­assisted instruction for physics problems involving graphs and figures, the
+effect of hint modalities needs to be tested on students’ performance and visual attention. Participants in our
+study solved four sets of conceptual problems, each of them containing one initial problem, six training problems,
+one near transfer problem, and one far transfer problem. The data showed that the same content in different
+modalities alters the effectiveness of the hint. Students’ eye movement data has also been explored to give
+insight into how hint modality changes students’ visual attention and how multiple hint modalities interact with
+each other. The results of this study could shed light on generating new principles to guide construction of
+computer­based physics problem solving instruction.
+
+Footnotes: *This research is supported in part by the U.S. National Science Foundation under Grants 1138697
+and 1348857. Opinions expressed are those of the authors and not necessarily those of the Foundation.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Effect of Visual Cues and Display Design on Problem Solving*
+Paper Type: Contributed
+Author: Bahar Modir
+Kansas State University
+Department of Physics, 116 Cardwell Hall
+Manhattan, KS 66506 
+7853209066 (p)
+bahar@phys.ksu.edu 
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+2/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Speaker Order: FE08
+Previous studies have shown that visual cues can help students to shift their attention toward relevant features of
+the conceptual physics problems in graph representation. However cueing does not completely prohibit students
+from attending to irrelevant features of a problem. In this study with students in an algebra­based class, we
+investigated the role of cues based on Wickens’ proximity compatibility principle that enabled us to adapt cues to
+particular kinds of questions. This principle states that there is a competition between the proximity of display
+features and proximity between the information in the mental state of the participants. Further, based on the
+Gestalt laws of grouping, we manipulated the display design to investigate the influence of the display proximity
+on the organization of the students’ attention toward the relevant parts of a problem and how that affects their
+response time. 
+
+Footnotes: *Supported in part by the National Science Foundation Grant 1348857
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Effects of Visual Cues and Video Solutions on Conceptual Tasks*
+Paper Type: Contributed
+Author: Tianlong Zu
+Kansas State University
+Department of Physics, 116 Cardwell Hall
+Manhattan, KS 66506 
+7853172559 (p)
+zutianlong@gmail.com 
+Speaker Order: FE09
+Visual cueing is shown to be effective in helping students solve conceptual physics tasks. However, students may
+have difficulties in solving physics transfer tasks with different surface features. We investigated if instruction
+provided using videos that contain explanations to the tasks that will improve students’ performance in solving
+near and far tasks. We interviewed students using a think­aloud protocol. Each interview included four sets of
+tasks. In each set students need to solve one initial problem, four isomorphic training tasks, a near transfer task,
+and a far transfer task. Based on the conditions, some of the students were provided with visual cues when
+solving training tasks, and some of them were provided with an instructional video following the training session.
+We compare students’ reasoning patterns and correctness in the two conditions.
+
+Footnotes: *Supported in part by NSF Grant 1348857.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+3/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Abstract Title: Investigating Problem Solving Automaticity Using Eye Movements*
+Paper Type: Contributed
+Author: Elise Agra
+Kansas State University
+Department of Physics, 116 Cardwell Hall
+Manhattan, KS 66506 
+(304) 906­5324 (p)
+esgagra@gmail.com 
+Speaker Order: FE10
+Visual cues have been shown to direct attention to relevant areas of a diagram and facilitate problem solving. We
+investigate the effect of visual cues on students’ visual attention while solving conceptual physics problems with
+diagrams. The diagrams contained features relevant to correctly solving the problem, as well as features
+attributed to common incorrect answers. Students enrolled in an introductory mechanics course were individually
+interviewed using a think­aloud protocol while their eye movements were recorded. Participants worked through
+four sets of problems containing an initial problem, four isomorphic training problems, and two transfer problems.
+Students in the cued condition saw visual cues overlaid on the training problems. A second interview was
+conducted two weeks later, in which students solved the two transfer problems without cues. We compare the
+cued and non­cued groups with respect to the automaticity of extracting relevant information on the transfer and
+retention problems.
+
+Footnotes: *This material is based upon work supported by the National Science Foundation under Grant Nos.
+1138697 and 1348857.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Preparation for Future Learning: Troubleshooting or Problem Solving? Findings
+Paper Type: Contributed
+Author: Edit Menuha Yerushalmi
+Weizmann Institute for Science
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+4/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+234 Herzl Street , Dept of Science Teaching
+ 
+Rehovot, Israel 76100 Israel
+ 
+089343743 (p)
+ 
+edit.yerushalmi@weizmann.ac.il 
+ 
+Speaker Order: FE05
+Troubleshooting activities engage students in diagnosing/explaining embedded mistakes in teacher­made
+erroneous solutions for physics problems. We hypothesized that students engaged in troubleshooting activities
+(aided by principle­based prompts and sample diagnoses when reviewing their own diagnoses) would outperform
+students engaged in problem­solving activities (aided by sample solutions when reviewing their own solutions) in
+their preparation for future learning: understanding of the concepts required to solve these problems, as well as
+inclination to self­repair one's understanding when reviewing his/her work. We will describe the findings of a
+comparison between two groups of 10th graders from the Arab sector in Israel, one performing troubleshooting
+activities and the other problem­solving activities in the context of geometrical optics. We will present an analysis
+of students' articulations that manifest self­repair when reviewing their own work, aided by instructors' diagnosis
+of an erroneous solution as well as analysis of their performance on transfer problems. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Preparation for Future Learning: Troubleshooting or Problem Solving? Methodology
+Paper Type: Contributed
+Author: Sawsan S. Ailabouni
+Weizmann Institute Of Science
+234 Herzl Street , Dept of Science Teaching
+Rehovot, Israel 76100 Israel
+0546618551 (p)
+Sawsan.ailabouni@weizmann.ac.il 
+Speaker Order: FE04
+Troubleshooting activities engage students in diagnosing/explaining embedded mistakes in teacher­made
+erroneous solutions for physics problems. We hypothesized that students engaged in troubleshooting activities
+(aided by principle­based prompts and sample diagnoses when reviewing their own diagnoses) would outperform
+students engaged in problem­solving activities (aided by sample solutions when reviewing their own solutions) in
+their preparation for future learning: understanding of the concepts required to solve these problems, as well as
+inclination to self­repair one's understanding when reviewing his/her work. We will describe the methodology
+used to examine this hypothesis, comparing two groups participating in online year­long interventions, a
+troubleshooting and a problem­solving intervention, both focused on the same problems. Students' performance
+before and after the interventions were examined using the double transfer methodology: Solving a transfer
+problem after studying a learning resource: instructors' diagnosis and correction of an erroneous solution to an
+isomorphic problem. 
+
+Conflicts: Note: This is one of two sequential presentations. Please place it before: "Preparation for future
+learning: troubleshooting or problem­solving? Findings"
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+5/9
+
+3/9/2016
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Abstract Title: Some Unintended Consequences of Prompting Students to Construct Force Diagrams
+Paper Type: Contributed
+Author: Luke D. Conlin
+Stanford University
+1919 Cooley Ave
+East Palo Alto, CA 94303 
+240­271­7665 (p)
+luke.conlin@gmail.com 
+Speaker Order: FE11
+As physics instructors, we often scaffold problem solving by prompting students with a series of intermediate
+steps. The consequences, good or bad, of such scaffolding are often left uninvestigated. We report on results of a
+study partially replicating and extending research by Heckler (2009) in which we asked undergraduate students
+to solve Newton’s laws problems. Half of the students were prompted to draw a force diagram before finding a
+solution. We found that the diagram prompt drove students away from an intuitive strategy, toward more lengthy
+formal strategies with lower success rates. In another measure, students were more likely to find fault with the
+informal nature of an intuitive solution if the problem statement included a diagram prompt. These results
+suggest that such problem­solving scaffolding affects students’ solution approach, possibly by cuing different
+epistemological stances on what counts as a good answer. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Student Epistemologies and Resource Use in a Conceptual Physics Problem
+Paper Type: Contributed
+Author: Tyler D. Scott
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+6/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Northwestern College
+ 
+101 7th Street SW
+ 
+Orange City, IA 51041 
+ 
+864­305­1290 (p)
+ 
+tyler.scott@nwciowa.edu 
+ 
+Speaker Order: FE02
+A significant goal of STEM education research has been to understand how students solve problems. An important
+aspect of students’ approaches to problem solving is their epistemologies, or beliefs about knowledge. In this
+study, students in a calculus­based, introductory physics course were presented with a problem on a test that
+asked them to find the mass of a simple pendulum given its equation of motion. Later, students were asked to
+write a short reflection on their problem­solving strategies and feelings as they wrestled with the problem.
+Understandably, students were frustrated by their inability to obtain a numerical answer. Reflections and test
+answers give insight into the students’ beliefs about the complexity and source of knowledge. Results show that
+most students relied heavily on their equation sheets. However, frustration with that method led some to
+progress to other considerations including lab experiences and their own conceptual understanding.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Students' Use of Representations in Modeling Instruction Introductory Physics
+Paper Type: Contributed
+Author: Daryl McPadden
+Florida International University
+11200 SW 8th St.
+Miami, FL 33199 
+303­746­8813 (p)
+dmcpa001@fiu.edu 
+Speaker Order: FE12
+We present the preliminary results of a study of student use of representations in problem solving within the
+Modeling Instruction – Electricity and Magnetism (MI­EM) course. Representational competence is a critical skill
+needed for students to develop a sophisticated understanding of and success in college science topics. In this
+study, 70 students were given a survey of 25 physics problem statements both pre­ and post­ instruction,
+covering both Newtonian Mechanics and Electricity and Magnetism (EM), and asked which representations they
+would use in that given situation. We analyze the results by comparing the preponderance of these
+representations. We also compare student representation use for those who had already taken the first­semester
+Modeling Instruction Mechanics course and those students who had taken a non­Modeling Mechanics course. In
+addition, we look at how students representation use changed by context of problem (Mechanics vs. EM). 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+7/9
+
+3/9/2016
+
+Order (Sorters Suggested order)
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Abstract Title: Synthesis Problem Solving: Concept Recognition and Application*
+Paper Type: Contributed
+Author: Bashirah Ibrahim
+Department of Teaching and Learning, The Ohio State University
+1945 N. High Street
+Columbus, OH 43210­1172 
+614­648­8300 (p)
+BASHIRAH2001@GMAIL.COM 
+Speaker Order: FE06
+The study explores the effects of incrementing the mathematical complexity of a synthesis problem on students’
+ability to recognize the relevant concepts and appropriately apply the identified concepts. The task highlights the
+situation of a block propelled from a spring on an inclined ramp. It undergoes projectile motion and lands on
+another inclined surface. Three versions of the task with different mathematical complexity were designed,
+requesting for the horizontal distance traveled by the block, spring compression, and projection angle
+respectively. A cohort of 105 physics students in three groups completed one version of the problem. Across the
+three tasks, more than a half of the sample succeeded in recognizing the appropriate concepts and committed to
+using solely the identified concepts. However, regardless of the mathematical complexity level, the majority of
+the students failed to correctly apply the physics concepts, with the occurrence of similar types of conceptual
+mistakes. 
+
+Footnotes: *The study is supported by NSF DRL­1252399.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: The Equation­Based Analytical Epistemic Game for Solving Mathematically­Based Physics
+Problems
+Paper Type: Contributed
+Author: Rabindra R. Bajracharya
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+8/9
+
+3/9/2016
+
+AAPT PaC Tools
+
+Oregon State University
+301 Weniger Hall, Oregon State University
+ 
+Corvallis, OR 97331­8507 
+ 
+2072992558 (p)
+ 
+ab_study@yahoo.com 
+ 
+Speaker Order: FE01
+We have been investigating student strategies while dealing the graphically­based problems with different physics
+contexts involving the Fundamental Theorem of Calculus. In this study, 14 introductory physics students were
+administered task­based,semi­structured individual interviews. Student strategies were analyzed using the
+perspectives of epistemological framing and epistemic games. We identify a new epistemic game that was
+commonly observed in our data, the equation­based analytical game. This game involves deriving an equation
+through symbolic manipulation and routine mathematical operations. Usually, this epistemic game is necessary to
+deal with most mathematically­based physics problems, but is not always sufficient for solving them completely
+and correctly. Our analysis shows that students tend to solve even those problems that do not involve any
+algebraic functions simply by using this strategy. The equation­based analytical game appears to be the first
+choice of strategy for many students in solving mathematically­based physics problems.
+
+Conflicts: I have submitted abstracts for contributed talk and poster sessions. However, due to some
+unavoidable circumstance, I won't be able to attend the AAPT meeting. I was wondering if there is any way you
+can talk off my abstract and names from the schedule.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1547
+
+9/9
+
+

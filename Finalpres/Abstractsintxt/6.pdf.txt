@@ -1,0 +1,426 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+PER: Examining Content Understanding and Reasoning I
+
+| Type: Con | Organizer: AAPT
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 9)
+
+Abstract Title: An Observational Coding Scheme for Interactive Classroom Evaluations
+Paper Type: Contributed
+Author: Noel Klingler
+George Washington University
+Dept. of Physics / George Washington University
+Washington, DC 20052 
+202­994­6489 (p)
+feldman@gwu.edu 
+Speaker Order: AE05
+Collaborative group­learning environments, including studio­based or SCALE­UP instruction, have grown in
+popularity and implementation at a wide variety of institutions. We are engaged in a multi­institutional project
+aimed at studying the factors that contribute to the success of student­centered pedagogical approaches in
+algebra­based physics courses. In this regard, the GW group is specifically focusing on documenting instructor
+actions and student activities taking place in the classroom; thus, we have been conducting systematic
+observations and analyses of various classroom environments. Our data, recorded as a chronological series of
+codes in the Teaching Dimensions Observational Protocol (TDOP), reflect the time sequence and pedagogical
+characteristics of classroom events. We have used a PER evidence­based approach to choose an efficient set of
+codes and have applied these codes during many observations at GW as well as at our partner institutions. We
+present here our final list of TDOP codes and inter­rater reliability results from our field­testing of this code set. 
+
+Conflicts: This talk should be scheduled adjacent to the one by Jarrad Pond (Univ. of Central Florida) and also
+adjacent to the one by Ozden Sengul (Georgia State Univ.). The order is not crucial, but these 3 talks should be
+put in sequence. Thank you.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1565
+
+1/7
+
+3/9/2016
+
+Comment:
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Developing Students’ Metacognitive Knowledge About Salient Problem Features*
+Paper Type: Contributed
+Author: Thanh K. Le
+University of Maine
+120 Bennett Hall
+Orono, ME 04469 
+510­213­0268 (p)
+thanh.le@maine.edu 
+Speaker Order: AE01
+Student reasoning in physics is often context dependent. A possible explanation is that salient features in physics
+problems may cue automatic and subconscious (System 1) reasoning. Students often accept these first­available
+responses without question and do not reflect on their reasoning processes, even when such processes are
+unproductive and preclude the use of relevant conceptual understanding. Metacognition, the monitoring and
+regulation of one’s thinking, around these salient features has the potential to address such difficulties. As part of
+a broader effort to identify methods for improving student learning in physics by explicitly supporting and
+enhancing student metacognition, we are currently investigating an instructional intervention focused on the
+development of students’ metacognitive knowledge about salient features and cued System 1 reasoning. In this
+intervention, students are guided to synthesize contrasting cases involving sample student responses and
+descriptive vignettes highlighting the targeted metacognitive knowledge. Preliminary data and emerging findings
+will be presented. 
+
+Footnotes: *This work is supported in part by the National Science Foundation under Grant Nos. DUE­1245313,
+DUE­1245999, and DUE­0962805.
+
+Conflicts: *This work is supported in part by the National Science Foundation under Grant Nos. DUE­1245313,
+DUE­1245999, and DUE­0962805.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Development of Preservice Elementary Teachers’ Science Self­efficacy Beliefs and its Relation to
+Science Conceptual Understanding
+Paper Type: Contributed
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1565
+
+2/7
+
+3/9/2016
+
+AAPT PaC Tools
+
+Author: Deepika Menon
+University of Missouri ­ Columbia
+105 W Broadway Apt # 6
+Columbia, MO 65203­3377 
+5735294707 (p)
+dm2qc@mail.missouri.edu 
+Speaker Order: AE09
+Self­efficacy beliefs that play a major role in determining teachers’ science teaching practices have been an
+important area of concern for pre­service science teacher education. This mixed­methods study investigated the
+changes in pre­service elementary teachers’ science self­efficacy beliefs and its relationship with changes in
+science content understandings in a specialized physics content course. Participants included 51 pre­service
+elementary science teachers enrolled in two term of the course. Data collection included implementation of
+Science Teaching Efficacy Belief Instrument­B (STEBI­B) and Physical Science Concept Test as pre­ and post­test
+as well as semi­structured interviews, observations and artifacts. A pre­post, repeated measures multivariate
+analysis of variance (MANOVA) design was used to test the significance of differences between the pre­ and post­
+surveys across time. Results indicated statistically significant gains in participants’ self­efficacy beliefs, personal
+science teaching beliefs, and outcome expectancy beliefs. Additionally, a positive moderate relationship between
+science conceptual understandings and personal science teaching efficacy beliefs was found. Findings from
+qualitative analysis suggest that despite of the nature of prior science experiences pre­service teachers previously
+had, exposure to a specialized content course that integrates relevant content along with modeled instructional
+strategies can positively impact self­efficacy beliefs. One implication from this study is that instructors teaching
+elementary physics content courses could shape science experiences within these courses to potentially support
+pre­service science teachers’ self­efficacy beliefs and confidence to teach in future. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Expert and Novice Judgments of Problem Difficulty from Previously Administered Exams
+Paper Type: Contributed
+Author: Jose P. Mestre
+University of Illinois at Champaign­Urbana
+309 Loomis Laboratory, 1110 Green Street
+Urbana, IL 61801 
+217.333.0098 (p)
+mestre@illinois.edu 
+Speaker Order: AE07
+The ability to judge the difficulty of physics problems has implications for both exam preparation and
+performance. Previous research has shown that students spend more time studying problems they judge as more
+difficult, but this strategy is effective only when these judgments match the normative difficulty of the questions.
+Little is known about how accurate instructors and students are at judging problem difficulty. We present data
+from two experiments where physics experts and introductory physics students predict which question of a pair
+taken from real exams is more difficult for the “typical student.” In the first experiment we analyze whether the
+rationales given by physics experts are predictive of accurate judgments. In the second experiment we compare
+the accuracy of experts and novices in their judgments. We discuss the educational implications of our findings.
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Exploring Student Learning Profiles in Algebra­based Studio Physics*
+Paper Type: Contributed
+Author: Jarrad W.T. Pond
+University of Central Florida
+4111 Libra Drive
+Orlando, FL 32816­2385 
+3862127216 (p)
+jarradpond@gmail.com 
+Speaker Order: AE06
+As part of a project to explore successful strategies for using studio methods, such as SCALE­UP, we explore self­
+regulatory abilities and learning approaches of students in said courses at three universities with varying student
+populations and differing success in studio­mode courses. We survey students using compiled questions from
+several existing surveys designed to measure student characteristics such as attitudes toward and motivations for
+learning, organization of scientific knowledge, experiences outside the classroom, and demographics. Here, we
+utilize clustering methods to group students into learning profiles to better understand the study strategies and
+motives of algebra­based studio physics students. We present results from first­semester and second­semester
+studio­mode introductory physics courses across three universities, totaling 11 classrooms with 10 different
+instructors. We identify several distinct learning profiles and evaluate demographic and concept inventory
+performance differences between them.
+
+Footnotes: *This work is supported in part by the U.S. National Science Foundation under grant DUE­1246024
+and grant DUE­1347515.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1565
+
+4/7
+
+3/9/2016
+
+Submit
+
+AAPT PaC Tools
+
+Abstract Title: How Physics Tutorials Facilitate Students’ use of Argumentation in Small­group Discussion
+Paper Type: Contributed
+Author: Ozden Sengul
+Georgia State University
+GSU 1 Park Place NE
+Atlanta, GA 30302­3999 
+4045739467 (p)
+osengul1@student.gsu.edu 
+Speaker Order: AE04
+Physics Education Research focuses on increasing student engagement and conceptual understanding, prompting
+different research groups to develop and use new teaching methods and materials in place of traditional ones. It
+is important for us to understand the basic features that present in course materials and their impacts on
+students’ learning. As part of a project to identify successful teaching strategies in studio physics, we are
+exploring how physics tutorials help students taking algebra­based introductory physics develop conceptual
+understanding using argumentation in small­group discussion. In order to identify basic features of tutorials, we
+conducted a literature review and did content analysis of physics tutorials; then, we videotaped groups of
+students working through physics tutorials. We analyzed the transcriptions of the students’ discussions and
+compared them to pre­ and post­test results to understand how basic features facilitate students’ use of
+argumentation and development of conceptual understanding
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Investigation of Student Reasoning in the Context of Scaffolded Instruction*
+Paper Type: Contributed
+Author: Mila Kryjevskaia
+North Dakota State University
+Department of Physics, PO Box 6050 North Dakota State University
+Fargo, ND 58108­6050 
+(701) 231­9756 (p)
+mila.kryjevskaia@ndsu.edu 
+Speaker Order: AE02
+Student­centered instruction can lead to strong gains in physics learning. However, even after targeted
+instruction, many students still struggle to analyze unfamiliar situations systematically. As a part of an ongoing
+investigation of student reasoning in the context of carefully designed, research­based scaffolded instruction,
+sequences of questions have been developed that allow for probing the relationships among conceptual
+understanding, reasoning, and intuition. Results from sequences of questions administered in the introductory
+calculus­based mechanics course will be presented. The dual process theory of reasoning will be applied to
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1565
+
+5/7
+
+3/9/2016
+
+AAPT PaC Tools
+
+interpret the results. Implications for research and instruction will be discussed. 
+ 
+
+Footnotes: *This work is supported in part by the National Science Foundation under Grant Nos. DUE­1245999,
+DUE­1245993, DUE­1245313 and DUE­1245699.
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Physics Experts' Use of Contrasting Cases When Solving Novel Problems
+Paper Type: Contributed
+Author: Darrick C. Jones
+Rutgers University
+Department of Physics and Astronomy
+Piscataway, NJ 08854­8019 United States
+9735252558 (p)
+dcjones@physics.rutgers.edu 
+Speaker Order: AE03
+Instruction that makes use of contrasting cases has been extremely successful. Furthermore, contrasting cases
+appear to be at the center of expert problem­solving strategies. Previously we have shown that physics experts
+make use of contrasting cases more frequently than any other epistemological or reasoning process resource.
+Gaining a deeper understanding of the function of these contrasting cases can help physics educators better
+incorporate contrasting cases into instruction. In this talk, we analyze the function of contrasting cases as a part
+of the problem­ solving process of a group of physics experts as they solve a novel, challenging physics problem.
+We show how the ideas of variation theory can help us better understand the function of these contrasting cases
+and discuss how the knowledge gained through this analysis can inform the development of effective instruction.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1565
+
+6/7
+
+3/9/2016
+
+AAPT PaC Tools
+
+Abstract Title: Physics Learning Facilitates Enhanced Resting­State Brain Connectivity in Problem­Solving
+Network
+Paper Type: Contributed
+Author: Jessica E. Bartley
+Florida International University
+11200 SW 8th St
+Miami, FL 33156­5336 United States
+3039411053 (p)
+jbart047@fiu.edu 
+Speaker Order: AE08
+Modeling how students think about physics is often measured via observation of students solving physics
+problems [1]. Functional magnetic resonance imaging (fMRI) may inform how these processes occur, but
+currently no neuroimaging studies have examined how students develop physics problem­solving skills. To
+provide insight into the neural nature of physics learning we examined resting­state functional connectivity (rsFC)
+in brain regions associated with problem­solving. Meta­analysis identified the left inferior frontal gyrus (IFG) as
+the region most consistently implicated across problem­solving tasks. Resting­state fMRI data were acquired
+pre/post instruction in eight undergraduate, first­time enrollees in introductory physics. Correspondence between
+post­instruction rsFC and meta­analytic results suggests a semester of university physics may facilitate enhanced
+recruitment of posterior brain regions involved in reasoning. Increased IFG­correlated activity from pre to post
+instruction indicates intrinsic brain connectivity may be modulated as a result of educational experience. 
+
+Footnotes: [1]Reif et al, Educ Psych 17 (1982).
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1565
+
+7/7
+
+

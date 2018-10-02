@@ -1,0 +1,18 @@
+For PERC Document clustering run:
+
+Algorithm: K-Means
+
+There are 1842 documents in this file.
+Uses the same logic of "FinalPres" clustering.
+I would recommend running that file and then do the "PERCClustering".
+
+First, we can start working by putting all documents into one file.
+Note that the original documents are a little bit messy, so It needs to be reorganized, also the
+years are missing, so add them too while they still in xlsx format.
+Convert all excel documents to csv documents manually (txt), and make them open with notepad by default.
+With all of that ready, we can start running the code in the following order:
+
+Abstract_Concadenation2 (Writes all abstracts into one text file)
+Abs_Formating (Extracts the abstracts and titles into 2 different text files)
+FinalCode2 (Reads both text files produced previously and does the clustering.)
+testing (Graphs the clusters in a year vs #documents plot, prints all points and the total number of docs per cluster)

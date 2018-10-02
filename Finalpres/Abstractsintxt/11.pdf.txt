@@ -1,0 +1,450 @@
+3/9/2016
+
+AAPT PaC Tools
+
+ 
+
+AAPT Programs & Conferences Tools
+
+Hello, Eleanor Sayre!
+
+Select a tool:
+
+PAC Tools
+
+Program Chair Tools
+
+Communications
+
+Dashboard
+
+Log Out
+
+Paper Sort
+
+Select Meeting: 
+
+­­­Select­­­
+
+ 
+
+go
+
+College Park ­ Maryland (SM15 ) / Status: Inactive
+
+Abstract List | Sort All | Sort All Collapsed View
+
+K­12 PER II
+
+| Type: Con | Organizer: Dan Crowe
+
+Description:
+Call for Papers:
+
+Abstracts Submitted (# 10)
+
+Abstract Title: “Am I Stealing Your Glory?” ­ Supporting Students' Agency During Discussions
+Paper Type: Contributed
+Author: Enrique A. Suarez
+University of Colorado, Boulder
+249 UCB
+Boulder, CO 80309­0249 CO
+405­6428983 (p)
+enrique.suarez@colorado.edu 
+Speaker Order: FB05
+Discussions, whether in small or large groups, are one of the cornerstones of learning through engaging in
+scientific disciplinary practices. They provide opportunities for teachers to explore student understanding, and for
+students to co­construct physics principles from evidence­supported claims. However, it is not always obvious
+how to best facilitate these discussions in a way that supports students' epistemic agency. The PER study
+reported here explores teachers' moves during consensus discussions while implementing the Physics and
+Everyday Thinking (PET) curriculum. Teacher moves were analyzed for how they promote or constrain students’
+participation in dialogic discourse. We will discuss specific moves that supported and enhanced student discourse,
+as well as moves that derailed rich student thinking and conversations. Finally, we propose strategies based on
+this research for facilitating discussions and pitfalls teachers may want to avoid. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1562
+
+1/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Classical Physics Learning from Analysis of Modern Physics Data
+Paper Type: Contributed
+Author: Kenneth W. Cecire
+University of Notre Dame
+Department of Physics
+Notre Dame, IN 46556 United States
+5746313343 (p)
+5746313977 (f)
+kcecire@nd.edu 
+Speaker Order: FB09
+Many of the classical physics principles we teach are hundreds of years old. So, unfortunately, are many of the
+examples we use. However, these same principles apply ­ and are vital ­ in research at the frontiers of physics.
+For example, conservation of momentum and energy are necessary to understand the products of particle
+collisions in the Large Hadron Collider. The authors make a first attempt to determine if students are more
+motivated to learn about classical principles through activities which employ authentic data from current, cutting­
+edge experiments. They also seek to determine if such activities enhance learning of classical topics in the
+physics canon.
+
+Conflicts: Chair of CoPHS, organizer/presider of "LHC in the classroom"
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Consequences of Teachers’ Content Difficulties on Planned Instruction and Assessment
+Paper Type: Contributed
+Author: Gregory D. Kranich
+University of Maine
+307 Husson Avenue Apt. I
+Bangor, ME 04401 
+5857399616 (p)
+gregory.kranich@maine.edu 
+Speaker Order: FB02
+As part of the Maine Physical Sciences Partnership (NSF #0962805), we have studied a group of middle school
+teachers’ modifications of curriculum materials, and their developing of common assessments for measuring
+student understanding. A team of teachers has made modifications to problematic areas of a force and motion
+unit, placing a new emphasis on a conceptual development of ideas that were found to be missing, specifically
+uniform and non­uniform motion. We observe a shared discomfort with the concept of acceleration, the
+implications of its sign, an inherent coordinate system choice, and whether an object is speeding up or slowing
+down. In this talk, I will discuss how teachers’ ideas about the sign of acceleration affected their choices for
+planned instruction and assessment of student understanding. 
+ 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Debating One Conceptual Question Throughout a Unit: Benefits and Reflections
+Paper Type: Contributed
+Author: Colleen G. Nyeggen
+Lick­Wilmerding High School
+755 Ocean Ave
+San Francisco, CA 94112 
+8658059424 (p)
+colleen.nyeggen@gmail.com 
+Speaker Order: FB03
+High School physics teachers often use conceptual questions at the beginning of a unit, to elicit students’ prior
+understandings or motivate the topic, or at the end of a unit to apply concepts already learned. In this talk, I
+discuss how a sufficiently rich conceptual question can be productively revisited throughout a unit, serving as the
+subject for an ongoing, whole­class debate. Revisiting a well­chosen question multiple times allows students to:
+(a) Refine their own intuitions and experiences as they construct explanations; (b) Engage in scientific practices
+such as asking questions, developing models, engaging in argumentation, and evaluating information; (c) Rethink
+their own ideas continuously in light of new evidence and others’ reasoning; and (d) Recognize and reflect on
+whole­class progress in understanding. I will show evidence of high school students engaging in these behaviors
+and share strategies for using this process in any physics unit. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1562
+
+3/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+Submit
+
+Abstract Title: Developing Teaching Materials that Work
+Paper Type: Contributed
+Author: Martin Richard Hopf
+Univ of Vienna, Austrian Educational Competence Centre Physics
+Lorenz­Kellner­Gasse 20
+Vienna, 1220 
++43­664­60277­60330 (p)
+martin.hopf@univie.ac.at 
+Speaker Order: FB06
+For several years now, the PER Group in Vienna, Austria, has been working on the development of teaching
+materials for high school physics teaching. Our main focus is to construct materials that work. For this we rely on
+a cyclic process of construction, evaluation, re­construction etc. Part of this research is to identify explanations of
+physics concepts that are accepted by students. So far, ready­to­use materials exist on teaching Newton’s
+mechanics in 7th grade [1] and on geometrical optics [2]. Also draft materials exist for infrared and ultraviolet
+radiation, special relativity, electromagnetic fields and particle theory. In the talk a short overview on the
+research agenda is given. The main focus will be the presentation of the teaching materials for mechanics and
+research results regarding their use in classrooms.
+
+Footnotes: [1] Hopf, M.; Wilhelm, Th.; Tobias, V.; Waltner, Chr. & Wiesner, H. (2011): Promoting students’
+understanding of Newtonian mechanics through an alternative content structure – Results from an empirical
+study. Paper presented at the ESERA 2011. [2] Haagen­Schützenhöfer, C. (2014). The relevance of students’
+conceptions for teaching geometrical optics in practice. Paper presented at ICPE 2013. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Energy­­>Momentum­­>Force­­>Kinematics: Redesigning the High School Mechanics Curriculum
+Paper Type: Contributed
+Author: Alexander Robinson*
+Thornapple Kellogg High School
+13836 Hardenburg Trl
+Eagle, MI 48822 
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1562
+
+4/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+(616) 970­0019 (p)
+ 
+thegreatmongoose@gmail.com 
+ 
+Speaker Order: FB07
+While much of the early research on “misconceptions” focused on the rationality of these ideas, current physics
+curriculum materials and assessments emphasizing well­documented “misconceptions” about mechanics seek to
+“root out” students’ intuitive ideas and to replace them with the correct scientific ones. Yet by the time students
+enter high school physics classrooms, these ideas have worked well in over a decade of experience interacting
+with moving objects. Thus, over the past three years, we have engaged in iterative cycles of curriculum design
+research, exploring whether we can leverage (rather than root out and replace) students’ intuitive ideas about
+motion by reversing the order in which mechanics topics are typically taught in high school physics. Drawing on
+classroom videos, weekly video­recorded student cognitive interviews, and student responses to a multiple­choice
+diagnostic assessment administered five times each semester, we describe how student thinking develops using
+our redesigned curriculum. 
+
+Footnotes: *Sponsored by Alicia Alonzo.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Interactive Whiteboard: A Catalyst for Student Use of Gestures
+Paper Type: Contributed
+Author: Bor Gregorcic
+University of Ljubljana
+Jadranska 19
+Ljubljana, 1000 Slovenia
+0038631720908 (p)
+bor.gregorcic@fmf.uni­lj.si 
+Speaker Order: FB04
+In a qualitative study we have observed and analyzed the interactions of small groups of high school students
+who collaboratively investigated orbital motion in a gravitational field using a virtual experiment on an interactive
+whiteboard. We have observed that during the activity, students communicated not only by talking, but that an
+important part of the communication was through body and hand gestures. In the talk, we will show how using
+gestures in combination with spoken language helped students express complex ideas and communicate them to
+other students without the need for using advanced vocabulary that students were still not familiar with. Student
+use of gestures can be encouraged by providing them with an appropriate content, environment, and tools for
+inquiry.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1562
+
+5/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Abstract Title: Putting the Puzzle Pieces Together: Teachers’ Reasoning About Student Thinking
+Paper Type: Contributed
+Author: Alicia C. Alonzo
+Michigan State University
+620 Farm Lane Blvd, Room 307
+East Lansing, MI 48824 
+517­353­3036 (p)
+alonzo@msu.edu 
+Speaker Order: FB08
+Learning progressions (LPs) – descriptions of increasingly sophisticated ways of thinking – are influencing
+materials for teachers. Underlying much of this work is a strong, though often tacit, assumption that students'
+conceptual thinking is theory­like and context­independent. Yet theoretical perspectives (e.g., naïve conceptions,
+knowledge­in­pieces) and empirical evidence suggest more fragmented models of student thinking. Interested in
+this potential mismatch, we explored how high school physics teachers reasoned about student thinking when
+presented with LP­based diagnostic information. While teachers were able to make sense of the LP perspective,
+they tended to treat student thinking about force and motion as less coherent. Each teacher switched among
+several different perspectives to interpret the information provided, with variation in the amount of structure they
+attributed to the “pieces” comprising understanding of force and motion. We consider how these results can
+inform LP­based professional development that leverages teachers’ multiple perspectives about student cognition.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Resource­based Item Response Curves
+Paper Type: Contributed
+Author: Alexander M. Axthelm
+University of Maine
+214 Bennett Hall
+Orono, ME 04469 
+260­255­4114 (p)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1562
+
+6/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+alexander.axthelm@maine.edu 
+ 
+Speaker Order: FB01
+As part of a larger project to study middle school teachers' knowledge of their students' ideas, the Maine Physical
+Sciences Partnership (NSF #0962805) has developed a multiple­choice survey on energy that has been
+administered to thousands of students. We analyze our results using a modified version of Item Response Theory
+which does not focus on correctness of answers but instead focuses on the ideas that students use when choosing
+their answers. In this talk, I will present a coding scheme which goes beyond the "correct/incorrect" paradigm,
+and looks at the possible lines of thought that could lead a student to a particular response. By comparing ideas
+used across many questions, we can conclude which resources are most productive for students. I use these
+results to describe productive student reasoning about energy on this survey. 
+
+Conflicts: Earlier today, I submitted an abstract with the same title (Resource­based Item Response Curves),
+before it was ready. This submission includes all the authors, and funding acknowledgement. I apologize for the
+inconvenience my mistake has caused, I hope you will consider this abstract instead. Thank you.
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+Comment:
+
+Submit
+
+Abstract Title: Searching Possibility of Integrated Education with Science and Mathematics
+Paper Type: Contributed
+Author: Youngseok Jhun
+Seoul National University of Education
+1650 SeochoGu Seochodong
+Seoul, 137­742 South Korea
+82­2­3475­2465 (p)
+jhunys@snue.ac.kr 
+Speaker Order: FB10
+National science curriculum of Korea is divided into four fields: Physics, Chemistry, Biology, and Earth Science. It
+has been said that the students have more difficulty in learning physics than the other fields, and "The Speed of
+Objects" rank the most difficult classes. One of the biggest causes of the difficulty is related with the
+mathematics. Students have to draw graphs which they are not skilled well in the classes of mathematics. Many
+students also have difficulty in calculating objects' speed. It seems that students need a mathematical
+background for studying these classes. However, we have different ideas; Learning Science can help learning
+mathematics, instead of "learning mathematics is necessary for studying science." Students may learn
+mathematics easily when they deal with the context of the real world. We designed a strategy to teach
+mathematics additionally in science classes on "The Speed of Objects," and we examined the leaning process of
+the students. 
+
+Change Session
+
+ No 
+
+ Yes
+
+­­Select here if you would like to change the session ­­
+
+Order (Sorters Suggested order)
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1562
+
+7/8
+
+3/9/2016
+
+AAPT PaC Tools
+
+Comment:
+
+Submit
+
+Copyright © 2011 AAPT.org
+ 
+
+Date Last Updated: February 4, 2011
+
+http://www.aapt.org/test/forms/aaptmeeting/pactools/paper_sortSingle.cfm?ATsid=1562
+
+8/8
+
+
